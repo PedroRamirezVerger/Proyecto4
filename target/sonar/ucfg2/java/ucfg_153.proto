@@ -1,89 +1,102 @@
 
 Scom.tgs.tgh.controller.HomeController#formGestor(Ljava/util/Map;)Ljava/lang/String;o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java◊ ◊("paramAnnotations* 
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java‰ ‰("paramAnnotations* 
 paramAnnotationso
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java◊ ◊(?◊
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java‰ ‰(?◊
 ‘
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java‘ ‘(7
-%4"
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java· ·(7
+%6"
 __annotate*75
 3org.springframework.web.bind.annotation.CrossOrigin*
 
 jsojava.util.Mapÿ
 ’
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java÷ ÷(
-%5"
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java„ „(
+%7"
 __annotate*86
 4org.springframework.web.bind.annotation.ResponseBody*
 
 jsojava.util.Map◊
 ‘
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java◊ ◊(&
-%6"
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java‰ ‰(&
+%8"
 __annotate*75
 3org.springframework.web.bind.annotation.RequestBody*
 
 jsojava.util.Map∞
 ≠
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java◊; ◊(>
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java‰; ‰(>
 jsojava.util.Map"__annotation*
 
-%4*
+%6*
 
-%5*
+%7*
 
-%6*
-1*ˆ
+%8*
+1*ù
 1o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÿ ÿ(∑
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÂ Â(ù
+ö
+o
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÂ Â(
+%0java.io.PrintStream"__id*
+""ÑÅ
+o
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÂ Â(
+
+%1void"0java.io.PrintStream#println(Ljava/lang/Object;)V*
+
+%0java.io.PrintStream*
+
+jsojava.util.Map2println(Ljava/lang/Object;)∑
 ¥
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÿ ÿ((
-%0java.lang.String"__mapGet*
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÊ Ê((
+%2java.lang.String"__mapGet*
 
 jsojava.util.Map*
 DNI∏
 µ
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÿ ÿ()"
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÊ Ê()"
 dniNuevoGestorjava.lang.String"__id*
 
-%0java.lang.String∫
+%2java.lang.String∫
 ∑
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaŸ Ÿ(#
-%1java.lang.String"__mapGet*
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÁ Á(#
+%3java.lang.String"__mapGet*
 
 jsojava.util.Map*
 
 centro∞
 ≠
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaŸ Ÿ($
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÁ Á($
 centrojava.lang.String"__id*
 
-%1java.lang.StringË
+%3java.lang.StringË
 Â
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java⁄ ⁄(
-%2com.tgs.tgh.web.Manager"6com.tgs.tgh.web.Manager#get()Lcom/tgs/tgh/web/Manager;*"
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaË Ë(
+%4com.tgs.tgh.web.Manager"6com.tgs.tgh.web.Manager#get()Lcom/tgs/tgh/web/Manager;*"
 com.tgs.tgh.web.Manager¥
 ±
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java⁄ ⁄(:
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaË Ë(:
 
-%3void"Qcom.tgs.tgh.web.Manager#guardarNuevoGestor(Ljava/lang/String;Ljava/lang/String;)V*"
+%5void"Qcom.tgs.tgh.web.Manager#guardarNuevoGestor(Ljava/lang/String;Ljava/lang/String;)V*"
 com.tgs.tgh.web.Manager*$
 "
 dniNuevoGestorjava.lang.String*
 
 centrojava.lang.String"y
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java€ €(
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÈ È(
 OK:
 jsojava.util.MapB)'
 %com.tgs.tgh.controller.HomeController

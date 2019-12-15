@@ -1,69 +1,69 @@
 
 Ucom.tgs.tgh.controller.HomeController#medicoGestor(Ljava/util/Map;)Ljava/lang/String;o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaî î("paramAnnotations*æ
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java£ £("paramAnnotations*æ
 2o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaõ õ(π
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java´ ´(π
 ∂
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaõ õ( 
-%12java.lang.String"__mapGet*
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java´ ´( 
+%14java.lang.String"__mapGet*
 
 jsojava.util.Map*
 horaØ
 ¨
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaõ õ(!
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java´ ´(!
 horajava.lang.String"__id*
 
-%12java.lang.String∫
+%14java.lang.String∫
 ∑
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaú ú( 
-%13java.lang.String"__mapGet*
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java¨ ¨( 
+%15java.lang.String"__mapGet*
 
 jsojava.util.Map*	
 fechaÆ
 ´
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaú ú(!
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java¨ ¨(!
 diajava.lang.String"__id*
 
-%13java.lang.String¿
+%15java.lang.String¿
 Ω
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaù ù('
-%14java.lang.String"__mapGet*
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java≠ ≠('
+%16java.lang.String"__mapGet*
 
 jsojava.util.Map*
 DNIPacienteØ
 ¨
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaù ù((
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java≠ ≠((
 dniPjava.lang.String"__id*
 
-%14java.lang.Stringæ
+%16java.lang.Stringæ
 ª
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaû û(%
-%15java.lang.String"__mapGet*
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÆ Æ(%
+%17java.lang.String"__mapGet*
 
 jsojava.util.Map*
 	DNIMedicoØ
 ¨
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaû û(&
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÆ Æ(&
 dniMjava.lang.String"__id*
 
-%15java.lang.String´®
+%17java.lang.String´®
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaü ü(
-%16com.tgs.tgh.model.Cita"com.tgs.tgh.model.Citaı
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaØ Ø(
+%18com.tgs.tgh.model.Cita"com.tgs.tgh.model.Citaı
 Ú
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaü ü(.
-%17"hcom.tgs.tgh.model.Cita#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaØ Ø(.
+%19"hcom.tgs.tgh.model.Cita#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*
 
-%16com.tgs.tgh.model.Cita*
+%18com.tgs.tgh.model.Cita*
 
 dniPjava.lang.String*
 
@@ -74,158 +74,171 @@ cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller
 horajava.lang.Stringª
 ∏
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaü ü(/
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaØ Ø(/
 citacom.tgs.tgh.model.Cita"__id*
 
-%16com.tgs.tgh.model.CitaÈ
+%18com.tgs.tgh.model.CitaÈ
 Ê
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java† †(
-%18com.tgs.tgh.web.Manager"6com.tgs.tgh.web.Manager#get()Lcom/tgs/tgh/web/Manager;*"
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java∞ ∞(
+%20com.tgs.tgh.web.Manager"6com.tgs.tgh.web.Manager#get()Lcom/tgs/tgh/web/Manager;*"
 com.tgs.tgh.web.ManagerÆ´
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java† †(#
-%19void"?com.tgs.tgh.web.Manager#eliminarCita(Lcom/tgs/tgh/model/Cita;)V* 
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java∞ ∞(#
+%21void"?com.tgs.tgh.web.Manager#eliminarCita(Lcom/tgs/tgh/model/Cita;)V* 
 
-%18com.tgs.tgh.web.Manager* 
+%20com.tgs.tgh.web.Manager* 
 
 citacom.tgs.tgh.model.Cita2&eliminarCita(Lcom/tgs/tgh/model/Cita;)*
 1*∂
 3o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaö
- ö(π
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java™
+ ™(π
 ∂
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaö
- ö(
-%10java.lang.String"__mapGet*
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java™
+ ™(
+%12java.lang.String"__mapGet*
 
 jsojava.util.Map*
 tipo˚¯
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaö
- ö(0
-%11boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java™
+ ™(0
+%13boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
 
-%10java.lang.String*
+%12java.lang.String*
 eliminarCita2equals(Ljava/lang/Object;)*
 2
-1*Ã	
+1*–	
 4o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaó ó(∑
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaß ß(∑
 ¥
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaó ó(
-%7java.lang.String"__mapGet*
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaß ß(
+%9java.lang.String"__mapGet*
 
 jsojava.util.Map*
 DNI≠
 ™
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaó ó(
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaß ß(
 dnijava.lang.String"__id*
 
-%7java.lang.StringË
-Â
+%9java.lang.StringÈ
+Ê
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaò ò(
-%8com.tgs.tgh.web.Manager"6com.tgs.tgh.web.Manager#get()Lcom/tgs/tgh/web/Manager;*"
-com.tgs.tgh.web.Manageræª
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java® ®(
+%10com.tgs.tgh.web.Manager"6com.tgs.tgh.web.Manager#get()Lcom/tgs/tgh/web/Manager;*"
+com.tgs.tgh.web.Manager¿Ω
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaò ò(3
-%9org.json.JSONArray"Ncom.tgs.tgh.web.Manager#getCitasMedico(Ljava/lang/String;)Lorg/json/JSONArray;*
-
-%8com.tgs.tgh.web.Manager*
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java® ®(3
+%11org.json.JSONArray"Ncom.tgs.tgh.web.Manager#getCitasMedico(Ljava/lang/String;)Lorg/json/JSONArray;* 
+
+%10com.tgs.tgh.web.Manager*
 
-dnijava.lang.String2"getCitasMedico(Ljava/lang/String;)∫
-∑
+dnijava.lang.String2"getCitasMedico(Ljava/lang/String;)ª
+∏
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaò ò(3"
-jsorespuestaorg.json.JSONArray"__id*
-
-%9org.json.JSONArray*
-1*»
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java® ®(3"
+jsorespuestaorg.json.JSONArray"__id*
+
+%11org.json.JSONArray*
+1*Ô
 5o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaï ï(*¢ü
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java§ §(ù
+ö
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaï ï((
-%0org.json.JSONArray"org.json.JSONArray¥
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java§ §(
+%0java.io.PrintStream"__id*
+""ÑÅ
+o
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java§ §(
+
+%1void"0java.io.PrintStream#println(Ljava/lang/Object;)V*
+
+%0java.io.PrintStream*
+
+jsojava.util.Map2println(Ljava/lang/Object;)¢ü
+o
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java• •((
+%2org.json.JSONArray"org.json.JSONArray¥
 ±
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaï ï(*
-%1"org.json.JSONArray#<init>()V*
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java• •(*
+%3"org.json.JSONArray#<init>()V*
 
-%0org.json.JSONArray∫
+%2org.json.JSONArray∫
 ∑
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaï ï(+"
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java• •(+"
 jsorespuestaorg.json.JSONArray"__id*
 
-%0org.json.JSONArray∏
+%2org.json.JSONArray∏
 µ
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javañ ñ(
-%2java.lang.String"__mapGet*
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java¶ ¶(
+%4java.lang.String"__mapGet*
 
 jsojava.util.Map*
 tipoıÚ
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javañ ñ('
-%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java¶ ¶('
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
 
-%2java.lang.String*
+%4java.lang.String*
 
 getCitas2equals(Ljava/lang/Object;)*
 3
 4* 
 paramAnnotationso
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaî î(A◊
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java£ £(A◊
 ‘
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaë ë(7
-%4"
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java† †(7
+%6"
 __annotate*75
 3org.springframework.web.bind.annotation.CrossOrigin*
 
 jsojava.util.Mapÿ
 ’
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaì ì(
-%5"
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java¢ ¢(
+%7"
 __annotate*86
 4org.springframework.web.bind.annotation.ResponseBody*
 
 jsojava.util.Map◊
 ‘
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaî î((
-%6"
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java£ £((
+%8"
 __annotate*75
 3org.springframework.web.bind.annotation.RequestBody*
 
 jsojava.util.Map∞
 ≠
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaî= î(@
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java£= £(@
 jsojava.util.Map"__annotation*
 
-%4*
+%6*
 
-%5*
+%7*
 
-%6*
+%8*
 5*ˆ
 1o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java¢	 ¢(Ì
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java≤	 ≤(Ì
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java¢	 ¢( 
-%20java.lang.String"/org.json.JSONArray#toString()Ljava/lang/String;*$
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java≤	 ≤( 
+%22java.lang.String"/org.json.JSONArray#toString()Ljava/lang/String;*$
 "
 jsorespuestaorg.json.JSONArray2
 toString()"å
 o
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java¢ ¢(!
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java≤ ≤(!
 
-%20java.lang.String:
+%22java.lang.String:
 jsojava.util.MapB)'
 %com.tgs.tgh.controller.HomeController

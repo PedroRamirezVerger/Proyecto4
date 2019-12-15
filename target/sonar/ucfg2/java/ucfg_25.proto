@@ -1,23 +1,23 @@
 
 Æcom.tgs.tgh.web.Manager#guardarNuevoMedico(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)Lorg/json/JSONObject;a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java‹ ‹(%"21*Ä
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java‰ ‰(%"22*Ä
 3a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaä ä(≠
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaó ó(≠
 ™
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaä& ä(5
-%40java.lang.String"
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaó& ó(5
+%52java.lang.String"
 __arrayGet*
 
 diasElegidos$Array*
 ""‹
 Ÿ
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaä ä(F
-%41void"jcom.tgs.tgh.dao.HorarioMedicoDAO#anadirHoraMedico(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*$""
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaó ó(F
+%53void"jcom.tgs.tgh.dao.HorarioMedicoDAO#anadirHoraMedico(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*$""
  com.tgs.tgh.dao.HorarioMedicoDAO*
 
-%40java.lang.String*
+%52java.lang.String*
 
 	nuevaHorajava.lang.String*
 
@@ -26,22 +26,22 @@ UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manage
 9
 1*Ñ
 14a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˜ ˜(≠
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÉ É(≠
 ™
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˜% ˜(4
-%25java.lang.String"
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÉ% É(4
+%35java.lang.String"
 __arrayGet*
 
 diasElegidos$Array*
 ""ﬁ
 €
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˜ ˜(G
-%26void"jcom.tgs.tgh.dao.HorarioMedicoDAO#anadirHoraMedico(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*$""
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÉ É(G
+%36void"jcom.tgs.tgh.dao.HorarioMedicoDAO#anadirHoraMedico(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*$""
  com.tgs.tgh.dao.HorarioMedicoDAO*
 
-%25java.lang.String*!
+%35java.lang.String*!
 
 primeraHorajava.lang.String*
 
@@ -49,281 +49,357 @@ UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manage
 
 14
 9
-1*ˆ
+1*Í!
 16a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÌ Ì(*œ
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˜ ˜(*œ
 Ã
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÌ Ì(8
-%12java.util.Calendar"4java.util.Calendar#getInstance()Ljava/util/Calendar;*"
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˜ ˜(8
+%16java.util.Calendar"4java.util.Calendar#getInstance()Ljava/util/Calendar;*"
 java.util.Calendar¨
 ©
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÌ Ì(9!
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˜ ˜(9!
 calendarFinjava.util.Calendar"__id*
 
-%12java.util.Calendarˇ¸
+%16java.util.Calendarˇ¸
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÓ Ó(
-%13void"-java.util.Calendar#setTime(Ljava/util/Date;)V*#
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java¯ ¯(
+%17void"-java.util.Calendar#setTime(Ljava/util/Date;)V*#
 !
 calendarFinjava.util.Calendar*
 
 dateFinjava.util.Date2setTime(Ljava/util/Date;)
 }
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÔ  Ô(4
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˘  ˘(4
 
-%14int"__id*
+%18int"__id*
 ""…∆
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÔ Ô(5
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˘ ˘(5
 
-%15int"java.util.Calendar#get(I)I*#
+%19int"java.util.Calendar#get(I)I*#
 !
 calendarFinjava.util.Calendar*
 
 
-%14int2get(I)
+%18int2get(I)
 }
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java (.
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˙ ˙(.
 
-%16int"__id*
+%20int"__id*
 ""…∆
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java (/
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˙ ˙(/
 
-%17int"java.util.Calendar#get(I)I*#
+%21int"java.util.Calendar#get(I)I*#
 !
 calendarFinjava.util.Calendar*
 
 
-%16int2get(I)œ
+%20int2get(I)ê
+ç
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˚ ˚(
+%22java.io.PrintStream"__id*
+""ò
+ï
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˚ ˚("
+%23java.lang.String"__concat*
+""*
+ ¨
+©
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˚ ˚(+
+%24java.lang.String"__concat*
+
+%23java.lang.String*
+""˚¯
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˚ ˚(,
+%25void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%22java.io.PrintStream*
+
+%24java.lang.String2println(Ljava/lang/String;)œ
 Ã
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÒ& Ò(E
-%18java.util.Calendar"4java.util.Calendar#getInstance()Ljava/util/Calendar;*"
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java¸& ¸(E
+%26java.util.Calendar"4java.util.Calendar#getInstance()Ljava/util/Calendar;*"
 java.util.Calendarπ
 ∂
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÒ Ò(F.
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java¸ ¸(F.
 calendarPonerPrimeraHorajava.util.Calendar"__id*
 
-%18java.util.Calendaråâ
+%26java.util.Calendaråâ
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÚ Ú(+
-%19void"-java.util.Calendar#setTime(Ljava/util/Date;)V*0
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˝ ˝(+
+%27void"-java.util.Calendar#setTime(Ljava/util/Date;)V*0
 .
 calendarPonerPrimeraHorajava.util.Calendar*
 
 dateInijava.util.Date2setTime(Ljava/util/Date;)
 }
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÛ/ Û(C
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˛/ ˛(C
 
-%20int"__id*
+%28int"__id*
 ""÷”
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÛ Û(D
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˛ ˛(D
 
-%21int"java.util.Calendar#get(I)I*0
+%29int"java.util.Calendar#get(I)I*0
 .
 calendarPonerPrimeraHorajava.util.Calendar*
 
 
-%20int2get(I)
+%28int2get(I)
 }
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÙ. Ù(=
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaˇ. ˇ(=
 
-%22int"__id*
+%30int"__id*
 ""÷”
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÙ Ù(>
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaˇ ˇ(>
 
-%23int"java.util.Calendar#get(I)I*0
+%31int"java.util.Calendar#get(I)I*0
 .
 calendarPonerPrimeraHorajava.util.Calendar*
 
 
-%22int2get(I)Á
+%30int2get(I)Á
 ‰
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaı ı(7
-%24java.lang.String"9com.tgs.tgh.web.Manager#montarHoras(II)Ljava/lang/String;*"
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÄ Ä(7
+%32java.lang.String"9com.tgs.tgh.web.Manager#montarHoras(II)Ljava/lang/String;*"
 com.tgs.tgh.web.Manager*
 ""*
 ""®
 •
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaı ı(8
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÄ Ä(8
 primeraHorajava.lang.String"__id*
 
-%24java.lang.String*
+%32java.lang.Stringê
+ç
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÅ Å(
+%33java.io.PrintStream"__id*
+""ÉÄ
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÅ Å(!
+%34void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%33java.io.PrintStream*!
+
+primeraHorajava.lang.String2println(Ljava/lang/String;)*
 
 14
 9
 1*î
 6a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÖ Ö(%†
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaí í(%†
 ù
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÖ Ö(%
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaí í(%
 dateInijava.util.Date"__id*
 
-%38java.util.Date*	
+%50java.util.Date*	
 3
 9
-1*ê
-17a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaË Ë("†
+1*£
+18a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÒ Ò("†
 ù
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaË Ë("
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÒ Ò("
 dateFinjava.util.Date"__id*
 
-%10java.util.Date*
+%12java.util.Dateê
+ç
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÚ Ú(
+%13java.io.PrintStream"__id*
+""˝˙
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÚ Ú(
+%14void"0java.io.PrintStream#println(Ljava/lang/Object;)V*
+
+%13java.io.PrintStream*
+
+dateFinjava.util.Date2println(Ljava/lang/Object;)*
 16*è
 8a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÖ Ö(°û
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaí í(°û
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÖ Ö(%
-%38java.util.Date">java.text.DateFormat#parse(Ljava/lang/String;)Ljava/util/Date;*&
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaí í(%
+%50java.util.Date">java.text.DateFormat#parse(Ljava/lang/String;)Ljava/util/Date;*&
 $
 formatjava.text.SimpleDateFormat*
 
 	nuevaHorajava.lang.String2parse(Ljava/lang/String;)*
-6*±
+6*è
 19a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÁ Á("ü
-ú
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÒ Ò(üú
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÁ Á("
-dateInijava.util.Date"__id*
-
-%9java.util.Dateüú
-a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaË Ë("
-%10java.util.Date">java.text.DateFormat#parse(Ljava/lang/String;)Ljava/util/Date;*&
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÒ Ò("
+%12java.util.Date">java.text.DateFormat#parse(Ljava/lang/String;)Ljava/util/Date;*&
 $
 formatjava.text.SimpleDateFormat*
 
 horaFinjava.lang.String2parse(Ljava/lang/String;)*
-17*È
+18*Ä
 9a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java¸ ¸((œ
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaà à((œ
 Ã
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java¸ ¸(6
-%27java.util.Calendar"4java.util.Calendar#getInstance()Ljava/util/Calendar;*"
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaà à(6
+%37java.util.Calendar"4java.util.Calendar#getInstance()Ljava/util/Calendar;*"
 java.util.Calendar©
 ¶
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java¸ ¸(7
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaà à(7
 calendarjava.util.Calendar"__id*
 
-%27java.util.Calendar¸˘
+%37java.util.Calendar¸˘
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˝ ˝(
-%28void"-java.util.Calendar#setTime(Ljava/util/Date;)V* 
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaâ â(
+%38void"-java.util.Calendar#setTime(Ljava/util/Date;)V* 
 
 calendarjava.util.Calendar*
 
 dateInijava.util.Date2setTime(Ljava/util/Date;)
 }
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˛ ˛(
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaä ä(
 
-%29int"__id*
+%39int"__id*
 ""—Œ
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java˛ ˛(-
-%30void"java.util.Calendar#add(II)V* 
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaä ä(-
+%40void"java.util.Calendar#add(II)V* 
 
 calendarjava.util.Calendar*
 
 
-%29int*
+%39int*
 ""2add(II)ÿ’
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaˇ ˇ((
-%31java.util.Date",java.util.Calendar#getTime()Ljava/util/Date;* 
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaã ã((
+%41java.util.Date",java.util.Calendar#getTime()Ljava/util/Date;* 
 
 calendarjava.util.Calendar2	getTime()§
 °
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaˇ ˇ()
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaã ã()
 fechaSalidajava.util.Date"__id*
 
-%31java.util.DateÄ˝
+%41java.util.DateÄ˝
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÄ Ä( 
-%32void"-java.util.Calendar#setTime(Ljava/util/Date;)V* 
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaå å( 
+%42void"-java.util.Calendar#setTime(Ljava/util/Date;)V* 
 
 calendarjava.util.Calendar*
 
 fechaSalidajava.util.Date2setTime(Ljava/util/Date;)
 }
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÅ Å(+
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaç ç(+
 
-%33int"__id*
+%43int"__id*
 ""∆√
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÅ
- Å(,
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaç
+ ç(,
 
-%34int"java.util.Calendar#get(I)I* 
+%44int"java.util.Calendar#get(I)I* 
 
 calendarjava.util.Calendar*
 
 
-%33int2get(I)
+%43int2get(I)
 }
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÇ Ç(%
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaé é(%
 
-%35int"__id*
+%45int"__id*
 ""∆√
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÇ	 Ç(&
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaé	 é(&
 
-%36int"java.util.Calendar#get(I)I* 
+%46int"java.util.Calendar#get(I)I* 
 
 calendarjava.util.Calendar*
 
 
-%35int2get(I)Á
+%45int2get(I)Á
 ‰
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÉ É(,
-%37java.lang.String"9com.tgs.tgh.web.Manager#montarHoras(II)Ljava/lang/String;*"
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaè è(,
+%47java.lang.String"9com.tgs.tgh.web.Manager#montarHoras(II)Ljava/lang/String;*"
 com.tgs.tgh.web.Manager*
 ""*
 ""¶
 £
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÉ É(-
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaè è(-
 	nuevaHorajava.lang.String"__id*
 
-%37java.lang.String*
-8*é
-20a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÁ Á(ûõ
+%47java.lang.Stringê
+ç
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÁ Á("
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaê ê(
+%48java.io.PrintStream"__id*
+""Å˛
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaê ê( 
+%49void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%48java.io.PrintStream*
+
+	nuevaHorajava.lang.String2println(Ljava/lang/String;)*
+8*¢
+20a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÔ Ô("ü
+ú
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÔ Ô("
+dateInijava.util.Date"__id*
+
+%9java.util.Dateê
+ç
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java (
+%10java.io.PrintStream"__id*
+""˝˙
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java (
+%11void"0java.io.PrintStream#println(Ljava/lang/Object;)V*
+
+%10java.io.PrintStream*
+
+dateInijava.util.Date2println(Ljava/lang/Object;)*
+19*é
+21a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÔ Ô(ûõ
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÔ Ô("
 %9java.util.Date">java.text.DateFormat#parse(Ljava/lang/String;)Ljava/util/Date;*&
 $
 formatjava.text.SimpleDateFormat*
 
 horaInijava.lang.String2parse(Ljava/lang/String;)*
-19*ª
-21a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaﬂ ﬂ(—
+20*ª
+22a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÁ Á(—
 Œ
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaﬂ ﬂ(5
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÁ Á(5
 
 %0void"[com.tgs.tgh.dao.MedicoDAO#registro(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*"
 com.tgs.tgh.dao.MedicoDAO*
@@ -335,98 +411,98 @@ UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manage
 centroMedicojava.lang.Stringö
 ó
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java‡ ‡(=
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaË Ë(=
 %1java.lang.String"Qcom.tgs.tgh.dao.EspecialidadDAO#getDuracion(Ljava/lang/String;)Ljava/lang/String;*#"!
 com.tgs.tgh.dao.EspecialidadDAO*"
  
 especialidadjava.lang.String§
 °
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java‡ ‡(>
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaË Ë(>
 duracionjava.lang.String"__id*
 
 %1java.lang.StringŸ
 ÷
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java· ·(.	
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÈ È(.	
 %2int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
 java.lang.Integer*
 
 duracionjava.lang.String§°
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java„  „(0 
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÎ  Î(0 
 %3java.text.SimpleDateFormat"java.text.SimpleDateFormat”
 –
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java„ „(9
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÎ Î(9
 %4"6java.text.SimpleDateFormat#<init>(Ljava/lang/String;)V*"
  
 %3java.text.SimpleDateFormat*	
 HH:mm∂
 ≥
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java„ „(:$
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÎ Î(:$
 formatjava.text.SimpleDateFormat"__id*"
  
 %3java.text.SimpleDateFormatåâ
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java‰ ‰(
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÏ Ï(
 %5java.util.Date"java.util.Dateû
 õ
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java‰ ‰(
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÏ Ï(
 %6"java.util.Date#<init>()V*
 
 %5java.util.Dateü
 ú
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java‰ ‰(
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÏ Ï(
 dateInijava.util.Date"__id*
 
 %5java.util.Dateåâ
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÂ Â(
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÌ Ì(
 %7java.util.Date"java.util.Dateû
 õ
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÂ Â(
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÌ Ì(
 %8"java.util.Date#<init>()V*
 
 %7java.util.Dateü
 ú
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÂ Â(
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaÌ Ì(
 dateFinjava.util.Date"__id*
 
 %7java.util.Date*
-20*º
+21*º
 1a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaç! ç(1óî
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaö! ö(1óî
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaç% ç(/
-%42org.json.JSONObject"org.json.JSONObject™
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaö% ö(/
+%54org.json.JSONObject"org.json.JSONObject™
 ß
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaç! ç(1
-%43"org.json.JSONObject#<init>()V*
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaö! ö(1
+%55"org.json.JSONObject#<init>()V*
 
-%42org.json.JSONObject¥
+%54org.json.JSONObject¥
 ±
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaç ç(2(
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaö ö(2(
 jsoEspecialidadesorg.json.JSONObject"__id*
 
-%42org.json.JSONObject√¿
+%54org.json.JSONObject√¿
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaé é()
-%44org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;**
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaõ õ()
+%56org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;**
 (
 jsoEspecialidadesorg.json.JSONObject*
 
 Insertar*
 OK2)put(Ljava/lang/String;Ljava/lang/Object;)"è
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaè è(*
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaú ú(*
 (
 jsoEspecialidadesorg.json.JSONObject:
 dnijava.lang.String: 

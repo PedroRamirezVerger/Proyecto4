@@ -1,171 +1,183 @@
 
 Hcom.tgs.tgh.web.Manager#getCitas(Ljava/lang/String;)Lorg/json/JSONArray;a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaö ö("5*Í0
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaõ õ("5*ã4
 3a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaû û(≥
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java† †(≥
 ∞
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaû û(
-%4com.tgs.tgh.model.Cita"
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java† †(
+%6com.tgs.tgh.model.Cita"
 __arrayGet*
 
 citasjava.util.List*
 ""Á‰
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaû û(,
-%5java.lang.String"7com.tgs.tgh.model.Cita#getDniMedico()Ljava/lang/String;*
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java† †(,
+%7java.lang.String"7com.tgs.tgh.model.Cita#getDniMedico()Ljava/lang/String;*
 
-%4com.tgs.tgh.model.Cita2getDniMedico()†
+%6com.tgs.tgh.model.Cita2getDniMedico()†
 ù
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaû û(-
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java† †(-
 dniMjava.lang.String"__id*
 
-%5java.lang.Stringô
+%7java.lang.Stringô
 ñ
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaü ü(,
-%6com.tgs.tgh.model.Usuario"Tcom.tgs.tgh.dao.UsuarioDAO#getUsuario(Ljava/lang/String;)Lcom/tgs/tgh/model/Usuario;*"
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java° °(,
+%8com.tgs.tgh.model.Usuario"Tcom.tgs.tgh.dao.UsuarioDAO#getUsuario(Ljava/lang/String;)Lcom/tgs/tgh/model/Usuario;*"
 com.tgs.tgh.dao.UsuarioDAO*
 
 dniMjava.lang.String±
 Æ
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaü ü(- 
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java° °(- 
 usucom.tgs.tgh.model.Usuario"__id*!
 
-%6com.tgs.tgh.model.Usuario§
+%8com.tgs.tgh.model.Usuario§
 °
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java† †(*
-%7com.tgs.tgh.model.Medico"Ycom.tgs.tgh.dao.MedicoDAO#esMedico(Lcom/tgs/tgh/model/Usuario;)Lcom/tgs/tgh/model/Medico;*"
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java¢ ¢(*
+%9com.tgs.tgh.model.Medico"Ycom.tgs.tgh.dao.MedicoDAO#esMedico(Lcom/tgs/tgh/model/Usuario;)Lcom/tgs/tgh/model/Medico;*"
 com.tgs.tgh.dao.MedicoDAO*"
  
 usucom.tgs.tgh.model.Usuario≤
 Ø
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java† †(+"
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java¢ ¢(+"
 medicocom.tgs.tgh.model.Medico"__id* 
 
-%7com.tgs.tgh.model.Medico≥
-∞
+%9com.tgs.tgh.model.Medicoê
+ç
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java° °(
-%8com.tgs.tgh.model.Cita"
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java£ £(
+%10java.io.PrintStream"__id*
+""ÜÉ
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java£ £(
+%11void"0java.io.PrintStream#println(Ljava/lang/Object;)V*
+
+%10java.io.PrintStream*$
+"
+medicocom.tgs.tgh.model.Medico2println(Ljava/lang/Object;)¥
+±
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java§ §(
+%12com.tgs.tgh.model.Cita"
 __arrayGet*
 
 citasjava.util.List*
-""¨
-©
+""≠
+™
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java° °(
-citacom.tgs.tgh.model.Cita"__id*
-
-%8com.tgs.tgh.model.Citañì
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java§ §(
+citacom.tgs.tgh.model.Cita"__id*
+
+%12com.tgs.tgh.model.Citaóî
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java¢ ¢(&
-%9org.json.JSONObject"org.json.JSONObject©
-¶
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java• •(&
+%13org.json.JSONObject"org.json.JSONObject™
+ß
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java¢ ¢((
-%10"org.json.JSONObject#<init>()V*
-
-%9org.json.JSONObject©
-¶
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java• •((
+%14"org.json.JSONObject#<init>()V*
+
+%13org.json.JSONObject™
+ß
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java¢ ¢()
-jsoCitaorg.json.JSONObject"__id*
-
-%9org.json.JSONObjectˆÛ
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java• •()
+jsoCitaorg.json.JSONObject"__id*
+
+%13org.json.JSONObjectˆÛ
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java£ £(7
-%11java.lang.String"<com.tgs.tgh.model.Medico#getEspecialidad()Ljava/lang/String;*$
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java¶ ¶(7
+%15java.lang.String"<com.tgs.tgh.model.Medico#getEspecialidad()Ljava/lang/String;*$
 "
 medicocom.tgs.tgh.model.Medico2getEspecialidad()–Õ
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java£ £(8
-%12org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;* 
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java¶ ¶(8
+%16org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;* 
 
 jsoCitaorg.json.JSONObject*
 especialidad*
 
-%11java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)ÎË
+%15java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)ÎË
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java§ §(.
-%13java.lang.String"7com.tgs.tgh.model.Usuario#getNombre()Ljava/lang/String;*$
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaß ß(.
+%17java.lang.String"7com.tgs.tgh.model.Usuario#getNombre()Ljava/lang/String;*$
 "
 medicocom.tgs.tgh.model.Medico2getNombre()´
 ®
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java§ §(4
-%14java.lang.String"__concat*
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaß ß(4
+%18java.lang.String"__concat*
 
-%13java.lang.String*
+%17java.lang.String*
  ÒÓ
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java§7 §(L
-%15java.lang.String":com.tgs.tgh.model.Usuario#getApellidos()Ljava/lang/String;*$
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaß7 ß(L
+%19java.lang.String":com.tgs.tgh.model.Usuario#getApellidos()Ljava/lang/String;*$
 "
 medicocom.tgs.tgh.model.Medico2getApellidos()ø
 º
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java§ §(L
-%16java.lang.String"__concat*
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaß ß(L
+%20java.lang.String"__concat*
 
-%14java.lang.String*
+%18java.lang.String*
 
-%15java.lang.StringÕ 
+%19java.lang.StringÕ 
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java§ §(M
-%17org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;* 
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaß ß(M
+%21org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;* 
 
 jsoCitaorg.json.JSONObject*
 	nombreApe*
 
-%16java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)ﬁ€
+%20java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)ﬁ€
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java• •(#
-%18java.lang.String"1com.tgs.tgh.model.Cita#getDia()Ljava/lang/String;* 
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java® ®(#
+%22java.lang.String"1com.tgs.tgh.model.Cita#getDia()Ljava/lang/String;* 
 
 citacom.tgs.tgh.model.Cita2getDia()«ƒ
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java• •($
-%19org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;* 
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java® ®($
+%23org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;* 
 
 jsoCitaorg.json.JSONObject*
 dia*
 
-%18java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)‡›
+%22java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)‡›
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java¶ ¶(%
-%20java.lang.String"2com.tgs.tgh.model.Cita#getHora()Ljava/lang/String;* 
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java© ©(%
+%24java.lang.String"2com.tgs.tgh.model.Cita#getHora()Ljava/lang/String;* 
 
 citacom.tgs.tgh.model.Cita2	getHora()»≈
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java¶ ¶(&
-%21org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;* 
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java© ©(&
+%25org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;* 
 
 jsoCitaorg.json.JSONObject*
 hora*
 
-%20java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)ˆÛ
+%24java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)ˆÛ
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaß ß(1
-%22java.lang.String"<com.tgs.tgh.model.Medico#getCentroMedico()Ljava/lang/String;*$
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java™ ™(1
+%26java.lang.String"<com.tgs.tgh.model.Medico#getCentroMedico()Ljava/lang/String;*$
 "
 medicocom.tgs.tgh.model.Medico2getCentroMedico() «
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaß ß(2
-%23org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;* 
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java™ ™(2
+%27org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;* 
 
 jsoCitaorg.json.JSONObject*
 
 centro*
 
-%22java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)™ß
+%26java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)™ß
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java® ®(
-%24org.json.JSONArray"?org.json.JSONArray#put(ILjava/lang/Object;)Lorg/json/JSONArray;*"
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java´ ´(
+%28org.json.JSONArray"?org.json.JSONArray#put(ILjava/lang/Object;)Lorg/json/JSONArray;*"
  
 
 arrayCitasorg.json.JSONArray*
@@ -174,50 +186,64 @@ arrayCitasorg.json.JSONArray*
 jsoCitaorg.json.JSONObject2put(ILjava/lang/Object;)*
 4*ù
 4a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaù ù(¨©
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaü ü(¨©
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaù ù("	
-%3int"java.util.List#size()I*
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaü ü("	
+%5int"java.util.List#size()I*
 
 citasjava.util.List2size()*
 3
-1*ı
+1*å
 5a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaõ õ(˙
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaú ú(˙
 ˜
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaõ õ(*
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaú ú(*
 %0java.util.List"Dcom.tgs.tgh.dao.CitaDAO#getCitas(Ljava/lang/String;)Ljava/util/List;*"
 com.tgs.tgh.dao.CitaDAO*
 
 dnijava.lang.Stringù
 ö
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaõ õ(+
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaú ú(+
 citasjava.util.List"__id*
 
 %0java.util.Listîë
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaú ú(&
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaù ù(&
 %1org.json.JSONArray"org.json.JSONArray¶
 £
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaú ú((
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaù ù((
 %2"org.json.JSONArray#<init>()V*
 
 %1org.json.JSONArray™
 ß
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaú ú() 
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaù ù() 
 
 arrayCitasorg.json.JSONArray"__id*
 
-%1org.json.JSONArray*
+%1org.json.JSONArrayè
+å
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaû û(
+%3java.io.PrintStream"__id*
+""Çˇ
+a
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaû û( 
+
+%4void"0java.io.PrintStream#println(Ljava/lang/Object;)V*
+
+%3java.io.PrintStream*"
+ 
+
+arrayCitasorg.json.JSONArray2println(Ljava/lang/Object;)*
 4*
 1a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java™	 ™("á
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java≠	 ≠("á
 a
-UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java™ ™("
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java≠ ≠("
  
 
 arrayCitasorg.json.JSONArray:

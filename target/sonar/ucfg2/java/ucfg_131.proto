@@ -5,7 +5,7 @@ cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java9 9(–Õ
 m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java9 9(+
-%11org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*"
+%19org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*"
  
 	resultadoorg.json.JSONObject*
 type*
@@ -13,20 +13,33 @@ cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller
 m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java:
  :(
-%12java.lang.String"0org.json.JSONObject#toString()Ljava/lang/String;*"
+%20java.lang.String"0org.json.JSONObject#toString()Ljava/lang/String;*"
  
 	resultadoorg.json.JSONObject2
 toString()"ä
 m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java: :(
 
-%12java.lang.String*Ñ
+%20java.lang.String*Ø"
 3m
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java1 1(µ
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java0 0(õ
+ò
+m
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java0 0(
+%0java.io.PrintStream"__id*
+""Çˇ
+m
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java0 0(
+
+%1void"0java.io.PrintStream#println(Ljava/lang/Object;)V*
+
+%0java.io.PrintStream*
+
+jsojava.util.Map2println(Ljava/lang/Object;)µ
 ≤
 m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java1 1(
-%0java.lang.String"__mapGet*
+%2java.lang.String"__mapGet*
 
 jsojava.util.Map*
 DNI´
@@ -35,11 +48,24 @@ m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java1 1(
 dnijava.lang.String"__id*
 
-%0java.lang.String∫
+%2java.lang.Stringõ
+ò
+m
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java2 2(
+%3java.io.PrintStream"__id*
+""ÖÇ
+m
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java2 2(
+
+%4void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%3java.io.PrintStream*
+
+dnijava.lang.String2println(Ljava/lang/String;)∫
 ∑
 m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java3 3("
-%1java.lang.String"__mapGet*
+%5java.lang.String"__mapGet*
 
 jsojava.util.Map*
 
@@ -49,17 +75,30 @@ m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java3 3(#
 pwdjava.lang.String"__id*
 
-%1java.lang.StringÊ
+%5java.lang.Stringõ
+ò
+m
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java4 4(
+%6java.io.PrintStream"__id*
+""ÖÇ
+m
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java4 4(
+
+%7void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%6java.io.PrintStream*
+
+pwdjava.lang.String2println(Ljava/lang/String;)Ê
 „
 m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java5 5()
-%2com.tgs.tgh.web.Manager"6com.tgs.tgh.web.Manager#get()Lcom/tgs/tgh/web/Manager;*"
+%8com.tgs.tgh.web.Manager"6com.tgs.tgh.web.Manager#get()Lcom/tgs/tgh/web/Manager;*"
 com.tgs.tgh.web.ManagerÎË
 m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java5 5(9
-%3org.json.JSONObject"Xcom.tgs.tgh.web.Manager#login(Ljava/lang/String;Ljava/lang/String;)Lorg/json/JSONObject;*
+%9org.json.JSONObject"Xcom.tgs.tgh.web.Manager#login(Ljava/lang/String;Ljava/lang/String;)Lorg/json/JSONObject;*
 
-%2com.tgs.tgh.web.Manager*
+%8com.tgs.tgh.web.Manager*
 
 dnijava.lang.String*
 
@@ -69,51 +108,63 @@ m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java5 5(:#
 jsoRespuestaorg.json.JSONObject"__id*
 
-%3org.json.JSONObject¢ü
+%9org.json.JSONObjectú
+ô
 m
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java7 7('
-%4org.json.JSONObject"org.json.JSONObject¥
-±
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java6 6(
+%10java.io.PrintStream"__id*
+""ìê
 m
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java7 7()
-%5"org.json.JSONObject#<init>()V*
-
-%4org.json.JSONObject∑
-¥
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java6 6("
+%11void"0java.io.PrintStream#println(Ljava/lang/Object;)V*
+
+%10java.io.PrintStream*%
+#
+jsoRespuestaorg.json.JSONObject2println(Ljava/lang/Object;)£†
+m
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java7 7('
+%12org.json.JSONObject"org.json.JSONObject∂
+≥
+m
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java7 7()
+%13"org.json.JSONObject#<init>()V*
+
+%12org.json.JSONObject∏
+µ
 m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java7 7(* 
-	resultadoorg.json.JSONObject"__id*
-
-%4org.json.JSONObjectñì
+	resultadoorg.json.JSONObject"__id*
+
+%12org.json.JSONObjectóî
 m
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java8 8(!
-%6java.lang.Object"=org.json.JSONObject#get(Ljava/lang/String;)Ljava/lang/Object;*%
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java8 8(!
+%14java.lang.Object"=org.json.JSONObject#get(Ljava/lang/String;)Ljava/lang/Object;*%
 #
 jsoRespuestaorg.json.JSONObject*	
-usuario2get(Ljava/lang/String;)Û
+usuario2get(Ljava/lang/String;)ıÚ
 m
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java8 8(4
-%7boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
-
-%6java.lang.Object*
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java8 8(4
+%15boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+
+%14java.lang.Object*
 
 invalido2equals(Ljava/lang/Object;)*
 2
-1*¬
+1*∆
 paramAnnotationsm
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java/ /(:’
-“
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java/ /(:÷
+”
 m
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java, ,(7
-%8"
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java, ,(7
+%16"
 __annotate*75
 3org.springframework.web.bind.annotation.CrossOrigin*
 
-jsojava.util.Map÷
-”
+jsojava.util.Map◊
+‘
 m
-cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java. .(
-%9"
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java. .(
+%17"
 __annotate*86
 4org.springframework.web.bind.annotation.ResponseBody*
 
@@ -121,27 +172,27 @@ __annotate*86
 ”
 m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java/ /(!
-%10"
+%18"
 __annotate*75
 3org.springframework.web.bind.annotation.RequestBody*
 
-jsojava.util.MapØ
-¨
+jsojava.util.Map±
+Æ
 m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java/6 /(9
-jsojava.util.Map"__annotation*
-
-%8*
-
-%9*
+jsojava.util.Map"__annotation*
 
-%10*
-3*ü	
+%16*
+
+%17*
+
+%18*
+3*—
 1m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java< <(Á‰
 m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java< <(*
-%13org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*"
+%21org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*"
  
 	resultadoorg.json.JSONObject*
 	resultado*%
@@ -149,20 +200,32 @@ cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller
 jsoRespuestaorg.json.JSONObject2)put(Ljava/lang/String;Ljava/lang/Object;)√¿
 m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java= =(
-%14org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*"
+%22org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*"
  
 	resultadoorg.json.JSONObject*
 type*
-OK2)put(Ljava/lang/String;Ljava/lang/Object;)ÌÍ
+OK2)put(Ljava/lang/String;Ljava/lang/Object;)ú
+ô
+m
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java> >(
+%23java.io.PrintStream"__id*
+""êç
+m
+cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java> >(
+%24void"0java.io.PrintStream#println(Ljava/lang/Object;)V*
+
+%23java.io.PrintStream*"
+ 
+	resultadoorg.json.JSONObject2println(Ljava/lang/Object;)ÌÍ
 m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java?	 ?(
-%15java.lang.String"0org.json.JSONObject#toString()Ljava/lang/String;*"
+%25java.lang.String"0org.json.JSONObject#toString()Ljava/lang/String;*"
  
 	resultadoorg.json.JSONObject2
 toString()"ä
 m
 cC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java? ?(
 
-%15java.lang.String:
+%25java.lang.String:
 jsojava.util.MapB)'
 %com.tgs.tgh.controller.HomeController
