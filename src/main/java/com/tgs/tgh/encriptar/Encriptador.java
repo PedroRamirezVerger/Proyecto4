@@ -30,7 +30,6 @@ public class Encriptador {
 			base64EncryptedString = new String(base64Bytes);
 
 		} catch (Exception ex) {
-			System.out.println("Fallo de encriptación.");
 		}
 		return base64EncryptedString;
 	}
@@ -52,7 +51,6 @@ public class Encriptador {
 			base64EncryptedString = new String(plainText, "UTF-8");
 
 		} catch (Exception ex) {
-			System.out.println("Fallo de desencriptación.");
 		}
 		return base64EncryptedString;
 	}
