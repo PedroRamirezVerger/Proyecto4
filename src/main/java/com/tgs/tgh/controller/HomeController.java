@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.tgs.tgh.model.Cita;
 import com.tgs.tgh.model.GrupoMedico;
 import com.tgs.tgh.web.Manager;
-
+//
 /**
  * Handles requests for the application home page.
  */
