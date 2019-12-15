@@ -63,7 +63,7 @@ public class HomeController {
 		return resultado.toString();
 	}
 
-	@RequestMapping(value = "/citas", method = RequestMethod.GET)
+	@GetMapping(value = "/citas")
 	public String citas(Locale locale, Model model) {
 		logger.info("Welcome home! The client locale is {}.", locale);
 
@@ -108,19 +108,19 @@ public class HomeController {
 
 	}
 
-	@RequestMapping(value = "/registro", method = RequestMethod.GET)
+	@GetMapping(value = "/registro")
 	public String registro() {
 
 		return "registro";
 	}
 
-	@RequestMapping(value = "/error", method = RequestMethod.GET)
+	@GetMapping(value = "/error")
 	public String error() {
 
 		return "error";
 	}
 
-	@RequestMapping(value = "/formularioCitas", method = RequestMethod.GET)
+	@GetMapping(value = "/formularioCitas")
 	public String formularioC() {
 
 		return "formularioCitas";
@@ -150,7 +150,7 @@ public class HomeController {
 		return "";
 	}
 
-	@RequestMapping(value = "/medico", method = RequestMethod.GET)
+	@GetMapping(value = "/medico")
 	public String medico() {
 
 		return "medico";
@@ -219,13 +219,13 @@ public class HomeController {
 		return "";
 	}
 
-	@RequestMapping(value = "/formularioModificar", method = RequestMethod.GET)
+	@GetMapping(value = "/formularioModificar")
 	public String formModif() {
 
 		return "formularioModificar";
 	}
 
-	@RequestMapping(value = "/formularioPaciente", method = RequestMethod.GET)
+	@GetMapping(value = "/formularioPaciente")
 	public String formularioPaciente() {
 
 		return "formularioPaciente";
@@ -272,13 +272,13 @@ public class HomeController {
 		return "";
 	}
 	
-	@RequestMapping(value = "/formularioTrabajador", method = RequestMethod.GET)
+	@GetMapping(value = "/formularioTrabajador")
 	public String formTrabaj() {
 
 		return "formularioTrabajador";
 	}
 	
-	@RequestMapping(value = "/formularioModificarHorario", method = RequestMethod.GET)
+	@GetMapping(value = "/formularioModificarHorario")
 	public String formHorario() {
 
 		return "formularioModificarHorario";
@@ -331,7 +331,7 @@ public class HomeController {
 		return resultado.toString();
 	}
 	
-	@RequestMapping(value = "/formularioGestor", method = RequestMethod.GET)
+	@GetMapping(value = "/formularioGestor")
 	public String formGestor() {
 
 		return "formularioGestor";
@@ -347,7 +347,7 @@ public class HomeController {
 		return "OK";
 	}
 	
-	@RequestMapping(value = "/calendarioGlobal", method = RequestMethod.GET)
+	@GetMapping(value = "/calendarioGlobal")
 	public String calendario() {
 
 		return "calendarioGlobal";
