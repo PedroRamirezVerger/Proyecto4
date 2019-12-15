@@ -20,8 +20,8 @@ public class Encriptador {
 			byte[] digestOfPassword = md.digest(secretKey.getBytes("utf-8"));
 			byte[] keyBytes = Arrays.copyOf(digestOfPassword, 24);
 
-			SecretKey key = new SecretKeySpec(keyBytes, "DESede");
-			Cipher cipher = Cipher.getInstance("DESede");
+			SecretKey key = new SecretKeySpec(keyBytes, "AES");
+			Cipher cipher = Cipher.getInstance("AES");
 			cipher.init(Cipher.ENCRYPT_MODE, key);
 
 			byte[] plainTextBytes = texto.getBytes("utf-8");
@@ -42,9 +42,9 @@ public class Encriptador {
 			MessageDigest md = MessageDigest.getInstance("MD5");
 			byte[] digestOfPassword = md.digest(secretKey.getBytes("utf-8"));
 			byte[] keyBytes = Arrays.copyOf(digestOfPassword, 24);
-			SecretKey key = new SecretKeySpec(keyBytes, "DESede");
+			SecretKey key = new SecretKeySpec(keyBytes, "AES");
 
-			Cipher decipher = Cipher.getInstance("DESede");
+			Cipher decipher = Cipher.getInstance("AES");
 			decipher.init(Cipher.DECRYPT_MODE, key);
 
 			byte[] plainText = decipher.doFinal(message);
