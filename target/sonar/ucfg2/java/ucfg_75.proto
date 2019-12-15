@@ -1,43 +1,43 @@
 
 qcom.tgs.tgh.dao.DBBroker#getCitasDiaMedico(Ljava/lang/String;Ljava/lang/String;)Lcom/mongodb/client/FindIterable;b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÁ# Á(4"1*Å
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java¿# ¿(4"1*Å
 1b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÂ Â(-›˜
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÀ À(-›˜
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÂ Â(+
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÀ À(+
 %0org.bson.BsonDocument"org.bson.BsonDocument­
 ª
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÂ Â(-
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÀ À(-
 %1"org.bson.BsonDocument#<init>()V*
 
 %0org.bson.BsonDocument°
 ­
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÂ Â(."
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÀ À(."
 	criterionorg.bson.BsonDocument"__id*
 
 %0org.bson.BsonDocumentš
 —
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÃ/ Ã(O
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÁ/ Á(O
 %2java.lang.String"Qcom.tgs.tgh.encriptar.Encriptador#encriptar(Ljava/lang/String;)Ljava/lang/String;*%"#
 !com.tgs.tgh.encriptar.Encriptador*
 
 	dniMedicojava.lang.String—”
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÃ$ Ã(.
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÁ$ Á(.
 %3org.bson.BsonString"org.bson.BsonStringÕ
 Ò
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÃ  Ã(P
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÁ  Á(P
 %4"/org.bson.BsonString#<init>(Ljava/lang/String;)V*
 
 %3org.bson.BsonString*
 
 %2java.lang.Stringãà
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÃ Ã(Q
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÁ Á(Q
 %5org.bson.BsonDocument"[org.bson.BsonDocument#append(Ljava/lang/String;Lorg/bson/BsonValue;)Lorg/bson/BsonDocument;*$
 "
 	criterionorg.bson.BsonDocument*
@@ -45,18 +45,18 @@ VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBrok
 
 %3org.bson.BsonString2.append(Ljava/lang/String;Lorg/bson/BsonValue;)—”
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÄ Ä((
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÂ Â((
 %6org.bson.BsonString"org.bson.BsonStringØ
 Õ
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÄ Ä(/
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÂ Â(/
 %7"/org.bson.BsonString#<init>(Ljava/lang/String;)V*
 
 %6org.bson.BsonString*
 
 fechajava.lang.StringÝÚ
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÄ Ä(0
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÂ Â(0
 %8org.bson.BsonDocument"[org.bson.BsonDocument#append(Ljava/lang/String;Lorg/bson/BsonValue;)Lorg/bson/BsonDocument;*$
 "
 	criterionorg.bson.BsonDocument*
@@ -65,12 +65,12 @@ VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBrok
 %6org.bson.BsonString2.append(Ljava/lang/String;Lorg/bson/BsonValue;)»
 ¸
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÆ- Æ(4&
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÄ- Ä(4&
 %9 com.mongodb.client.MongoDatabase"__id*$*"
 com.tgs.tgh.dao.DBBroker"
 dbüù
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÆ- Æ(_)
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÄ- Ä(_)
 %10"com.mongodb.client.MongoCollection"wcom.mongodb.client.MongoDatabase#getCollection(Ljava/lang/String;Ljava/lang/Class;)Lcom/mongodb/client/MongoCollection;*(
 &
 %9 com.mongodb.client.MongoDatabase*	
@@ -78,13 +78,13 @@ VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBrok
 ""22getCollection(Ljava/lang/String;Ljava/lang/Class;)Ì
 É
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÆ Æ(`0
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÄ Ä(`0
 
 collection"com.mongodb.client.MongoCollection"__id*+
 )
 %10"com.mongodb.client.MongoCollectionóð
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÇ	 Ç(#&
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÅ	 Å(#&
 %11com.mongodb.client.FindIterable"ecom.mongodb.client.MongoCollection#find(Lorg/bson/conversions/Bson;)Lcom/mongodb/client/FindIterable;*2
 0
 
@@ -92,7 +92,7 @@ collection"com.mongodb.client.MongoCollection*$
 "
 	criterionorg.bson.BsonDocument2!find(Lorg/bson/conversions/Bson;)"Ž
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÇ Ç($(
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÅ Å($(
 &
 %11com.mongodb.client.FindIterable:
 	dniMedicojava.lang.String:

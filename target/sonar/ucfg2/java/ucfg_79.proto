@@ -1,16 +1,16 @@
 
 ecom.tgs.tgh.dao.DBBroker#getDuracionEspecialidad(Ljava/lang/String;)Lcom/mongodb/client/FindIterable;b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java€# €(:"1*Â
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaŸ# Ÿ(:"1*Â
 1b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java‹- ‹(1ª
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java⁄- ⁄(1ª
 ∏
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java‹- ‹(4&
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java⁄- ⁄(4&
 %0 com.mongodb.client.MongoDatabase"__id*$*"
 com.tgs.tgh.dao.DBBroker"
 dbÑÅ
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java‹- ‹(h(
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java⁄- ⁄(h(
 %1"com.mongodb.client.MongoCollection"wcom.mongodb.client.MongoDatabase#getCollection(Ljava/lang/String;Ljava/lang/Class;)Lcom/mongodb/client/MongoCollection;*(
 &
 %0 com.mongodb.client.MongoDatabase*
@@ -18,39 +18,39 @@ VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBrok
 ""22getCollection(Ljava/lang/String;Ljava/lang/Class;)À
 »
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java‹ ‹(i0
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java⁄ ⁄(i0
 
 collection"com.mongodb.client.MongoCollection"__id**
 (
 %1"com.mongodb.client.MongoCollectionõò
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java› ›(+
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java€ €(+
 %2org.bson.BsonDocument"org.bson.BsonDocument≠
 ™
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java› ›(-
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java€ €(-
 %3"org.bson.BsonDocument#<init>()V*
 
 %2org.bson.BsonDocument∞
 ≠
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java› ›(."
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java€ €(."
 	criterionorg.bson.BsonDocument"__id*
 
 %2org.bson.BsonDocumentóî
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaﬁ' ﬁ(1
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java‹' ‹(1
 %4org.bson.BsonString"org.bson.BsonStringﬂ
 ‹
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaﬁ# ﬁ(?
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java‹# ‹(?
 %5"/org.bson.BsonString#<init>(Ljava/lang/String;)V*
 
 %4org.bson.BsonString*"
  
 especialidadjava.lang.StringÊ„
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaﬁ ﬁ(@
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java‹ ‹(@
 %6org.bson.BsonDocument"[org.bson.BsonDocument#append(Ljava/lang/String;Lorg/bson/BsonValue;)Lorg/bson/BsonDocument;*$
 "
 	criterionorg.bson.BsonDocument*
@@ -58,7 +58,7 @@ VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBrok
 
 %4org.bson.BsonString2.append(Ljava/lang/String;Lorg/bson/BsonValue;)ÚÔ
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaﬂ	 ﬂ(#%
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java›	 ›(#%
 %7com.mongodb.client.FindIterable"ecom.mongodb.client.MongoCollection#find(Lorg/bson/conversions/Bson;)Lcom/mongodb/client/FindIterable;*2
 0
 
@@ -66,7 +66,7 @@ collection"com.mongodb.client.MongoCollection*$
 "
 	criterionorg.bson.BsonDocument2!find(Lorg/bson/conversions/Bson;)"ç
 b
-VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaﬂ ﬂ($'
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java› ›($'
 %
 %7com.mongodb.client.FindIterable: 
 especialidadjava.lang.StringB

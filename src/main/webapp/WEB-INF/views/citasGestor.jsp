@@ -160,7 +160,7 @@
 					</div>
 					<table id="Table" class="table">
 					<caption>Citas guardadas</caption>
-						<header>Tabla lista de citas</header>
+						<th>Tabla lista de citas</th>
 						<!-- Tabla para la muestra de las citas que tiene un usuario -->
 						<thead>
 							<tr class="table-primary">
