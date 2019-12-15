@@ -20,9 +20,12 @@
 		<maven.compiler.target>1.6</maven.compiler.target>
 		
 		<sonar.projectKey>PedroRamirezVerger_Proyecto4</sonar.projectKey>
-  <sonar.organization>pedroramirezverger</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>c6d61e0cfc25cced726a16f38654ef1fd0f3d652</sonar.login>
+  		<sonar.organization>pedroramirezverger</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  		<sonar.login>c6d61e0cfc25cced726a16f38654ef1fd0f3d652</sonar.login>
+  		<sonar.exclusions>
+                **/target/*
+            </sonar.exclusions>
 
 	</properties>
 
