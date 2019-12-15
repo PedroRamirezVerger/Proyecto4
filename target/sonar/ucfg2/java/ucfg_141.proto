@@ -1,0 +1,186 @@
+
+Ocom.tgs.tgh.controller.HomeController#gestor(Ljava/util/Map;)Ljava/lang/String;e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java² ²("paramAnnotations*
+2e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java¸ ¸(®
+«
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java¸ ¸(
+%11java.lang.String"__mapGet*
+
+jsojava.util.Map*
+dni¤
+¡
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java¸ ¸(
+dnijava.lang.String"__id*
+
+%11java.lang.Stringß
+Ü
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java¹ ¹(%
+%12com.tgs.tgh.web.Manager"6com.tgs.tgh.web.Manager#get()Lcom/tgs/tgh/web/Manager;*"
+com.tgs.tgh.web.ManagerÌÉ
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java¹ ¹(9$
+%13com.tgs.tgh.model.GrupoMedico"Ycom.tgs.tgh.web.Manager#getGrupoMedico(Ljava/lang/String;)Lcom/tgs/tgh/model/GrupoMedico;* 
+
+%12com.tgs.tgh.web.Manager*
+
+dnijava.lang.String2"getGrupoMedico(Ljava/lang/String;)Á
+¾
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java¹ ¹(:'
+grupoMcom.tgs.tgh.model.GrupoMedico"__id*&
+$
+%13com.tgs.tgh.model.GrupoMedico‚ÿ
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaº º(2
+%14java.lang.String"@com.tgs.tgh.model.GrupoMedico#getDniPaciente()Ljava/lang/String;*)
+'
+grupoMcom.tgs.tgh.model.GrupoMedico2getDniPaciente()ÐÍ
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaº º(3
+%15org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*%
+#
+jsorespuestaorg.json.JSONObject*
+DNI*
+
+%14java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)Š‡
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java» »(5
+%16java.util.ArrayList"Dcom.tgs.tgh.model.GrupoMedico#getListaMedicos()Ljava/util/ArrayList;*)
+'
+grupoMcom.tgs.tgh.model.GrupoMedico2getListaMedicos()ÝÚ
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java» »(6
+%17org.json.JSONObject"Vorg.json.JSONObject#put(Ljava/lang/String;Ljava/util/Collection;)Lorg/json/JSONObject;*%
+#
+jsorespuestaorg.json.JSONObject*	
+Grupo*
+
+%16java.util.ArrayList2-put(Ljava/lang/String;Ljava/util/Collection;)*
+1*˜
+3e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java·
+ ·(®
+«
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java·
+ ·(
+%9java.lang.String"__mapGet*
+
+jsojava.util.Map*
+tipoòï
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java·
+ ·(2
+%10boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%9java.lang.String*
+getGrupoMedico2equals(Ljava/lang/Object;)*
+2
+1*
+4e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaµ µ(Þ
+Û
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaµ µ(
+%7com.tgs.tgh.web.Manager"6com.tgs.tgh.web.Manager#get()Lcom/tgs/tgh/web/Manager;*"
+com.tgs.tgh.web.Managerùö
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaµ µ(1
+%8org.json.JSONObject">com.tgs.tgh.web.Manager#getTodosUsuario()Lorg/json/JSONObject;*
+
+%7com.tgs.tgh.web.Manager2getTodosUsuario()²
+¯
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaµ µ(1#
+jsorespuestaorg.json.JSONObject"__id*
+
+%8org.json.JSONObject*
+1*”
+5e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java³ ³(,š—
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java³  ³(*
+%0org.json.JSONObject"org.json.JSONObject¬
+©
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java³ ³(,
+%1"org.json.JSONObject#<init>()V*
+
+%0org.json.JSONObject²
+¯
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java³ ³(-#
+jsorespuestaorg.json.JSONObject"__id*
+
+%0org.json.JSONObject®
+«
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java´ ´(
+%2java.lang.String"__mapGet*
+
+jsojava.util.Map*
+tipoíê
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java´ ´()
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%2java.lang.String*
+
+getAllUser2equals(Ljava/lang/Object;)*
+3
+4*˜
+paramAnnotationse
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java² ²(;Í
+Ê
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java¯ ¯(7
+%4"
+__annotate*75
+3org.springframework.web.bind.annotation.CrossOrigin*
+
+jsojava.util.MapÎ
+Ë
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java± ±(
+%5"
+__annotate*86
+4org.springframework.web.bind.annotation.ResponseBody*
+
+jsojava.util.MapÍ
+Ê
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java² ²("
+%6"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+jsojava.util.Map¦
+£
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java²7 ²(:
+jsojava.util.Map"__annotation*
+
+%4*
+
+%5*
+
+%6*
+5*Ú
+1e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java½	 ½(èå
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java½	 ½( 
+%18java.lang.String"0org.json.JSONObject#toString()Ljava/lang/String;*%
+#
+jsorespuestaorg.json.JSONObject2
+toString()"‚
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java½ ½(!
+
+%18java.lang.String:
+jsojava.util.MapB)'
+%com.tgs.tgh.controller.HomeController

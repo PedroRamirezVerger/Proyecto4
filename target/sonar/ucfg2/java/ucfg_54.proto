@@ -1,0 +1,361 @@
+
+ccom.tgs.tgh.dao.DBBroker#loginUser(Ljava/lang/String;Ljava/lang/String;)Lcom/tgs/tgh/model/Usuario;V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java5 5("5*Ç5
+2V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java@ @(!®
+«
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java@# @(6
+%14org.bson.BsonValue"__mapGet*
+
+bsoorg.bson.BsonDocument*
+
+PasswordÔÑ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java@# @(A
+%15org.bson.BsonString"2org.bson.BsonValue#asString()Lorg/bson/BsonString;*
+
+%14org.bson.BsonValue2
+asString()ÐÍ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java@# @(L
+%16java.lang.String"0org.bson.BsonString#getValue()Ljava/lang/String;*
+
+%15org.bson.BsonString2
+getValue()¬
+©
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaA A(
+%17org.bson.BsonValue"__mapGet*
+
+bsoorg.bson.BsonDocument*
+
+NombreÔÑ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaA A(!
+%18org.bson.BsonString"2org.bson.BsonValue#asString()Lorg/bson/BsonString;*
+
+%17org.bson.BsonValue2
+asString()ÐÍ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaA A(,
+%19java.lang.String"0org.bson.BsonString#getValue()Ljava/lang/String;*
+
+%18org.bson.BsonString2
+getValue()¯
+¬
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaB B(2
+%20org.bson.BsonValue"__mapGet*
+
+bsoorg.bson.BsonDocument*
+	ApellidosÔÑ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaB B(=
+%21org.bson.BsonString"2org.bson.BsonValue#asString()Lorg/bson/BsonString;*
+
+%20org.bson.BsonValue2
+asString()ÐÍ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaB B(H
+%22java.lang.String"0org.bson.BsonString#getValue()Ljava/lang/String;*
+
+%21org.bson.BsonString2
+getValue()Œ
+‰
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaB B(I
+%23java.lang.String"Tcom.tgs.tgh.encriptar.Encriptador#desencriptar(Ljava/lang/String;)Ljava/lang/String;*%"#
+!com.tgs.tgh.encriptar.Encriptador*
+
+%22java.lang.Stringª
+§
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaC C(
+%24org.bson.BsonValue"__mapGet*
+
+bsoorg.bson.BsonDocument*
+FNacÔÑ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaC C(
+%25org.bson.BsonString"2org.bson.BsonValue#asString()Lorg/bson/BsonString;*
+
+%24org.bson.BsonValue2
+asString()ÐÍ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaC C(*
+%26java.lang.String"0org.bson.BsonString#getValue()Ljava/lang/String;*
+
+%25org.bson.BsonString2
+getValue()¯
+¬
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaC, C(@
+%27org.bson.BsonValue"__mapGet*
+
+bsoorg.bson.BsonDocument*
+	DomicilioÔÑ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaC, C(K
+%28org.bson.BsonString"2org.bson.BsonValue#asString()Lorg/bson/BsonString;*
+
+%27org.bson.BsonValue2
+asString()ÐÍ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaC, C(V
+%29java.lang.String"0org.bson.BsonString#getValue()Ljava/lang/String;*
+
+%28org.bson.BsonString2
+getValue()¯
+¬
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaD D(
+%30org.bson.BsonValue"__mapGet*
+
+bsoorg.bson.BsonDocument*
+	PoblacionÔÑ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaD D($
+%31org.bson.BsonString"2org.bson.BsonValue#asString()Lorg/bson/BsonString;*
+
+%30org.bson.BsonValue2
+asString()ÐÍ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaD D(/
+%32java.lang.String"0org.bson.BsonString#getValue()Ljava/lang/String;*
+
+%31org.bson.BsonString2
+getValue()¨
+¥
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaD1 D(>
+%33org.bson.BsonValue"__mapGet*
+
+bsoorg.bson.BsonDocument*
+CPÔÑ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaD1 D(I
+%34org.bson.BsonString"2org.bson.BsonValue#asString()Lorg/bson/BsonString;*
+
+%33org.bson.BsonValue2
+asString()ÐÍ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaD1 D(T
+%35java.lang.String"0org.bson.BsonString#getValue()Ljava/lang/String;*
+
+%34org.bson.BsonString2
+getValue()®
+«
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaE E(
+%36org.bson.BsonValue"__mapGet*
+
+bsoorg.bson.BsonDocument*
+
+TelefonoÔÑ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaE E(#
+%37org.bson.BsonString"2org.bson.BsonValue#asString()Lorg/bson/BsonString;*
+
+%36org.bson.BsonValue2
+asString()ÐÍ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaE E(.
+%38java.lang.String"0org.bson.BsonString#getValue()Ljava/lang/String;*
+
+%37org.bson.BsonString2
+getValue()«
+¨
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaE0 E(@
+%39org.bson.BsonValue"__mapGet*
+
+bsoorg.bson.BsonDocument*	
+EmailÔÑ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaE0 E(K
+%40org.bson.BsonString"2org.bson.BsonValue#asString()Lorg/bson/BsonString;*
+
+%39org.bson.BsonValue2
+asString()ÐÍ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaE0 E(V
+%41java.lang.String"0org.bson.BsonString#getValue()Ljava/lang/String;*
+
+%40org.bson.BsonString2
+getValue()˜•
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java@ @( 
+%42com.tgs.tgh.model.Usuario"com.tgs.tgh.model.Usuarioî
+ë
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java@ E(W
+%43"×com.tgs.tgh.model.Usuario#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*"
+ 
+%42com.tgs.tgh.model.Usuario*
+
+dnijava.lang.String*
+
+%16java.lang.String*
+
+%19java.lang.String*
+
+%23java.lang.String*
+
+%26java.lang.String*
+
+%29java.lang.String*
+
+%32java.lang.String*
+
+%35java.lang.String*
+
+%38java.lang.String*
+
+%41java.lang.String¨
+¥
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java@ E(X!
+usercom.tgs.tgh.model.Usuario"__id*"
+ 
+%42com.tgs.tgh.model.Usuario"}
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaF F(#
+!
+usercom.tgs.tgh.model.Usuario*õ
+3V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java> >(íê
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java> >(%
+%13org.bson.BsonDocument":com.mongodb.client.MongoIterable#first()Ljava/lang/Object;*-
++
+iteratorcom.mongodb.client.FindIterable2first()Ÿ
+œ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java> >(&
+bsoorg.bson.BsonDocument"__id*
+
+%13org.bson.BsonDocument*
+2
+1*½
+4V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java<
+ <("`
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java< <(
+""*Ç
+5V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java6- 6(1¯
+¬
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java6- 6(4&
+%0 com.mongodb.client.MongoDatabase"__id*$*"
+com.tgs.tgh.dao.DBBroker"
+dbòï
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java6- 6(b(
+%1"com.mongodb.client.MongoCollection"wcom.mongodb.client.MongoDatabase#getCollection(Ljava/lang/String;Ljava/lang/Class;)Lcom/mongodb/client/MongoCollection;*(
+&
+%0 com.mongodb.client.MongoDatabase*
+
+Usuarios*
+""22getCollection(Ljava/lang/String;Ljava/lang/Class;)¿
+¼
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java6 6(c0
+
+collection"com.mongodb.client.MongoCollection"__id**
+(
+%1"com.mongodb.client.MongoCollectionŒ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java7 7(+
+%2org.bson.BsonDocument"org.bson.BsonDocument¡
+ž
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java7 7(-
+%3"org.bson.BsonDocument#<init>()V*
+
+%2org.bson.BsonDocument¤
+¡
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java7 7(."
+	criterionorg.bson.BsonDocument"__id*
+
+%2org.bson.BsonDocumentˆ
+…
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java8) 8(C
+%4java.lang.String"Qcom.tgs.tgh.encriptar.Encriptador#encriptar(Ljava/lang/String;)Ljava/lang/String;*%"#
+!com.tgs.tgh.encriptar.Encriptador*
+
+dnijava.lang.String‹ˆ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java8 8((
+%5org.bson.BsonString"org.bson.BsonStringÉ
+Æ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java8 8(D
+%6"/org.bson.BsonString#<init>(Ljava/lang/String;)V*
+
+%5org.bson.BsonString*
+
+%4java.lang.StringÑÎ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java8 8(E
+%7org.bson.BsonDocument"[org.bson.BsonDocument#append(Ljava/lang/String;Lorg/bson/BsonValue;)Lorg/bson/BsonDocument;*$
+"
+	criterionorg.bson.BsonDocument*
+DNI*
+
+%5org.bson.BsonString2.append(Ljava/lang/String;Lorg/bson/BsonValue;)ˆ
+…
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java9. 9(H
+%8java.lang.String"Qcom.tgs.tgh.encriptar.Encriptador#encriptar(Ljava/lang/String;)Ljava/lang/String;*%"#
+!com.tgs.tgh.encriptar.Encriptador*
+
+pwdjava.lang.String‹ˆ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java9# 9(-
+%9org.bson.BsonString"org.bson.BsonStringÊ
+Ç
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java9 9(I
+%10"/org.bson.BsonString#<init>(Ljava/lang/String;)V*
+
+%9org.bson.BsonString*
+
+%8java.lang.String×Ô
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java9 9(J
+%11org.bson.BsonDocument"[org.bson.BsonDocument#append(Ljava/lang/String;Lorg/bson/BsonValue;)Lorg/bson/BsonDocument;*$
+"
+	criterionorg.bson.BsonDocument*
+
+Password*
+
+%9org.bson.BsonString2.append(Ljava/lang/String;Lorg/bson/BsonValue;)çä
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java:( :(B&
+%12com.mongodb.client.FindIterable"ecom.mongodb.client.MongoCollection#find(Lorg/bson/conversions/Bson;)Lcom/mongodb/client/FindIterable;*2
+0
+
+collection"com.mongodb.client.MongoCollection*$
+"
+	criterionorg.bson.BsonDocument2!find(Lorg/bson/conversions/Bson;)¸
+µ
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java: :(C+
+iteratorcom.mongodb.client.FindIterable"__id*(
+&
+%12com.mongodb.client.FindIterable*
+3
+4*½
+1V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaH	 H("`
+V
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaH H(
+"":
+dnijava.lang.String:
+pwdjava.lang.StringB
+com.tgs.tgh.dao.DBBroker

@@ -1,0 +1,22 @@
+
+<com.tgs.tgh.dao.UsuarioDAO#comprobarDNI(Ljava/lang/String;)ZX
+NC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/UsuarioDAO.java (#"1*«
+1X
+NC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/UsuarioDAO.java	 (Õ
+Ò
+X
+NC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/UsuarioDAO.java	 (
+%0com.tgs.tgh.dao.DBBroker"8com.tgs.tgh.dao.DBBroker#get()Lcom/tgs/tgh/dao/DBBroker;*"
+com.tgs.tgh.dao.DBBrokerŒ
+X
+NC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/UsuarioDAO.java	 (-
+%1boolean">com.tgs.tgh.dao.DBBroker#comprobarDNIEnBD(Ljava/lang/String;)Z* 
+
+%0com.tgs.tgh.dao.DBBroker*
+
+dnijava.lang.String2$comprobarDNIEnBD(Ljava/lang/String;)"b
+X
+NC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/UsuarioDAO.java (.
+"":
+dnijava.lang.StringB"
+com.tgs.tgh.dao.UsuarioDAO

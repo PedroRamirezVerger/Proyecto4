@@ -1,0 +1,23 @@
+
+Tcom.tgs.tgh.dao.UsuarioDAO#getUsuario(Ljava/lang/String;)Lcom/tgs/tgh/model/Usuario;X
+NC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/UsuarioDAO.java (!"1*ç
+1X
+NC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/UsuarioDAO.java	 (Õ
+Ò
+X
+NC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/UsuarioDAO.java	 (
+%0com.tgs.tgh.dao.DBBroker"8com.tgs.tgh.dao.DBBroker#get()Lcom/tgs/tgh/dao/DBBroker;*"
+com.tgs.tgh.dao.DBBroker°­
+X
+NC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/UsuarioDAO.java	 ((
+%1com.tgs.tgh.model.Usuario"Rcom.tgs.tgh.dao.DBBroker#getUsuario(Ljava/lang/String;)Lcom/tgs/tgh/model/Usuario;* 
+
+%0com.tgs.tgh.dao.DBBroker*
+
+dniMjava.lang.String2getUsuario(Ljava/lang/String;)"}
+X
+NC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/UsuarioDAO.java ()!
+
+%1com.tgs.tgh.model.Usuario:
+dniMjava.lang.StringB"
+com.tgs.tgh.dao.UsuarioDAO

@@ -1,0 +1,102 @@
+
+Scom.tgs.tgh.controller.HomeController#formGestor(Ljava/util/Map;)Ljava/lang/String;e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java‰ ‰("paramAnnotations*ò
+paramAnnotationse
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java‰ ‰(?Õ
+ 
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java· ·(7
+%6"
+__annotate*75
+3org.springframework.web.bind.annotation.CrossOrigin*
+
+jsojava.util.MapŒ
+À
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java„ „(
+%7"
+__annotate*86
+4org.springframework.web.bind.annotation.ResponseBody*
+
+jsojava.util.MapÕ
+ 
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java‰ ‰(&
+%8"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+jsojava.util.Map¶
+£
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.java‰; ‰(>
+jsojava.util.Map"__annotation*
+
+%6*
+
+%7*
+
+%8*
+1*π
+1e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÂ Â(ì
+ê
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÂ Â(
+%0java.io.PrintStream"__id*
+""˙˜
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÂ Â(
+
+%1void"0java.io.PrintStream#println(Ljava/lang/Object;)V*
+
+%0java.io.PrintStream*
+
+jsojava.util.Map2println(Ljava/lang/Object;)≠
+™
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÊ Ê((
+%2java.lang.String"__mapGet*
+
+jsojava.util.Map*
+DNIÆ
+´
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÊ Ê()"
+dniNuevoGestorjava.lang.String"__id*
+
+%2java.lang.String∞
+≠
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÁ Á(#
+%3java.lang.String"__mapGet*
+
+jsojava.util.Map*
+
+centro¶
+£
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÁ Á($
+centrojava.lang.String"__id*
+
+%3java.lang.Stringﬁ
+€
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaË Ë(
+%4com.tgs.tgh.web.Manager"6com.tgs.tgh.web.Manager#get()Lcom/tgs/tgh/web/Manager;*"
+com.tgs.tgh.web.Manager™
+ß
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaË Ë(:
+
+%5void"Qcom.tgs.tgh.web.Manager#guardarNuevoGestor(Ljava/lang/String;Ljava/lang/String;)V*"
+com.tgs.tgh.web.Manager*$
+"
+dniNuevoGestorjava.lang.String*
+
+centrojava.lang.String"o
+e
+YC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/controller/HomeController.javaÈ È(
+OK:
+jsojava.util.MapB)'
+%com.tgs.tgh.controller.HomeController

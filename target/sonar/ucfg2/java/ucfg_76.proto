@@ -1,0 +1,37 @@
+
+Lcom.tgs.tgh.dao.DBBroker#getTodosUsuarios()Lcom/mongodb/client/FindIterable;X
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÊ# Ê(3"1*á	
+1X
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaË- Ë(1±
+®
+X
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaË- Ë(4&
+%0 com.mongodb.client.MongoDatabase"__id*$*"
+com.tgs.tgh.dao.DBBroker"
+dbôñ
+X
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaË- Ë(b(
+%1"com.mongodb.client.MongoCollection"wcom.mongodb.client.MongoDatabase#getCollection(Ljava/lang/String;Ljava/lang/Class;)Lcom/mongodb/client/MongoCollection;*(
+&
+%0 com.mongodb.client.MongoDatabase*
+
+Usuarios*
+""22getCollection(Ljava/lang/String;Ljava/lang/Class;)Á
+¾
+X
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaË Ë(c0
+
+collection"com.mongodb.client.MongoCollection"__id**
+(
+%1"com.mongodb.client.MongoCollectionŒ‰
+X
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÌ	 Ì(%
+%2com.mongodb.client.FindIterable"Jcom.mongodb.client.MongoCollection#find()Lcom/mongodb/client/FindIterable;*2
+0
+
+collection"com.mongodb.client.MongoCollection2find()"ƒ
+X
+LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÌ Ì('
+%
+%2com.mongodb.client.FindIterableB
+com.tgs.tgh.dao.DBBroker

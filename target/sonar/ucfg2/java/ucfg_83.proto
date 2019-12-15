@@ -1,0 +1,31 @@
+
+_com.tgs.tgh.dao.PacienteDAO#esPaciente(Lcom/tgs/tgh/model/Usuario;)Lcom/tgs/tgh/model/Paciente;Y
+OC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/PacienteDAO.java (""1*Ü
+1Y
+OC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/PacienteDAO.java	 	(Ö
+Ó
+Y
+OC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/PacienteDAO.java	 	($
+%0com.tgs.tgh.dao.DBBroker"8com.tgs.tgh.dao.DBBroker#get()Lcom/tgs/tgh/dao/DBBroker;*"
+com.tgs.tgh.dao.DBBrokerçä
+Y
+OC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/PacienteDAO.java	 	(C 
+%1com.tgs.tgh.model.Paciente"gcom.tgs.tgh.dao.DBBroker#comprobarSiEsPaciente(Lcom/tgs/tgh/model/Usuario;)Lcom/tgs/tgh/model/Paciente;* 
+
+%0com.tgs.tgh.dao.DBBroker*&
+$
+usuariocom.tgs.tgh.model.Usuario22comprobarSiEsPaciente(Lcom/tgs/tgh/model/Usuario;)°
+­
+Y
+OC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/PacienteDAO.java	 	(D&
+pacientecom.tgs.tgh.model.Paciente"__id*"
+ 
+%1com.tgs.tgh.model.Paciente"…
+Y
+OC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/PacienteDAO.java
+ 
+((
+&
+pacientecom.tgs.tgh.model.Paciente:$
+usuariocom.tgs.tgh.model.UsuarioB"
+com.tgs.tgh.dao.PacienteDAO

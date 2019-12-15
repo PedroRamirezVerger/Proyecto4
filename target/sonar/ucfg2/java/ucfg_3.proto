@@ -1,0 +1,537 @@
+
+Xcom.tgs.tgh.web.Manager#login(Ljava/lang/String;Ljava/lang/String;)Lorg/json/JSONObject;U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java@ @("11*Ê
+2U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javae e('ãà
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javae e(%
+%52org.json.JSONObject"org.json.JSONObjectû
+õ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javae e('
+%53"org.json.JSONObject#<init>()V*
+
+%52org.json.JSONObjectù
+ö
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javae e((
+jsoGesorg.json.JSONObject"__id*
+
+%52org.json.JSONObjectÍÁ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaf f(0
+%54java.lang.String"<com.tgs.tgh.model.Gestor#getCentroMedico()Ljava/lang/String;*$
+"
+gestorcom.tgs.tgh.model.Gestor2getCentroMedico()Ω∫
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaf f(1
+%55org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*
+
+jsoGesorg.json.JSONObject*
+
+centro*
+
+%54java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)∆√
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javag g("
+%56org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*"
+ 
+	respuestaorg.json.JSONObject*
+
+gestor*
+
+jsoGesorg.json.JSONObject2)put(Ljava/lang/String;Ljava/lang/Object;)ÜÉ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javah h("
+%57java.lang.Object"@org.json.JSONObject#remove(Ljava/lang/String;)Ljava/lang/Object;*"
+ 
+	respuestaorg.json.JSONObject*
+tipoUsuario2remove(Ljava/lang/String;)∂≥
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javai i()
+%58org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*"
+ 
+	respuestaorg.json.JSONObject*
+tipoUsuario*
+
+Gestor2)put(Ljava/lang/String;Ljava/lang/Object;)*
+1*¨
+3U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javac c(ù
+ö
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javac c(-
+%51com.tgs.tgh.model.Gestor"Ycom.tgs.tgh.dao.GestorDAO#esGestor(Lcom/tgs/tgh/model/Usuario;)Lcom/tgs/tgh/model/Gestor;*"
+com.tgs.tgh.dao.GestorDAO*&
+$
+usuariocom.tgs.tgh.model.Usuarioß
+§
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javac c(."
+gestorcom.tgs.tgh.model.Gestor"__id*!
+
+%51com.tgs.tgh.model.Gestor*
+2
+1*ô
+4U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java\ \('ãà
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java\ \(%
+%42org.json.JSONObject"org.json.JSONObjectû
+õ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java\ \('
+%43"org.json.JSONObject#<init>()V*
+
+%42org.json.JSONObjectù
+ö
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java\ \((
+jsoMedorg.json.JSONObject"__id*
+
+%42org.json.JSONObjectÍÁ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java] ](6
+%44java.lang.String"<com.tgs.tgh.model.Medico#getEspecialidad()Ljava/lang/String;*$
+"
+medicocom.tgs.tgh.model.Medico2getEspecialidad()√¿
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java] ](7
+%45org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*
+
+jsoMedorg.json.JSONObject*
+especialidad*
+
+%44java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)ÍÁ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java^ ^(0
+%46java.lang.String"<com.tgs.tgh.model.Medico#getCentroMedico()Ljava/lang/String;*$
+"
+medicocom.tgs.tgh.model.Medico2getCentroMedico()Ω∫
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java^ ^(1
+%47org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*
+
+jsoMedorg.json.JSONObject*
+
+centro*
+
+%46java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)∆√
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java_ _("
+%48org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*"
+ 
+	respuestaorg.json.JSONObject*
+
+medico*
+
+jsoMedorg.json.JSONObject2)put(Ljava/lang/String;Ljava/lang/Object;)ÜÉ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java` `("
+%49java.lang.Object"@org.json.JSONObject#remove(Ljava/lang/String;)Ljava/lang/Object;*"
+ 
+	respuestaorg.json.JSONObject*
+tipoUsuario2remove(Ljava/lang/String;)∂≥
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaa a()
+%50org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*"
+ 
+	respuestaorg.json.JSONObject*
+tipoUsuario*
+
+Medico2)put(Ljava/lang/String;Ljava/lang/Object;)*
+3*¨
+5U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaZ Z(ù
+ö
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaZ Z(-
+%41com.tgs.tgh.model.Medico"Ycom.tgs.tgh.dao.MedicoDAO#esMedico(Lcom/tgs/tgh/model/Usuario;)Lcom/tgs/tgh/model/Medico;*"
+com.tgs.tgh.dao.MedicoDAO*&
+$
+usuariocom.tgs.tgh.model.Usuarioß
+§
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaZ Z(."
+medicocom.tgs.tgh.model.Medico"__id*!
+
+%41com.tgs.tgh.model.Medico*
+3
+4*Á
+6U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaU U('ãà
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaU U(%
+%35org.json.JSONObject"org.json.JSONObjectû
+õ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaU U('
+%36"org.json.JSONObject#<init>()V*
+
+%35org.json.JSONObjectù
+ö
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaU U((
+jsoPacorg.json.JSONObject"__id*
+
+%35org.json.JSONObjectÌ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaV V(2
+%37java.lang.String">com.tgs.tgh.model.Paciente#getCentroMedico()Ljava/lang/String;*(
+&
+pacientecom.tgs.tgh.model.Paciente2getCentroMedico()Ω∫
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaV V(3
+%38org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*
+
+jsoPacorg.json.JSONObject*
+
+centro*
+
+%37java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)»≈
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaW W($
+%39org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*"
+ 
+	respuestaorg.json.JSONObject*
+
+paciente*
+
+jsoPacorg.json.JSONObject2)put(Ljava/lang/String;Ljava/lang/Object;)∏µ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaX X(+
+%40org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*"
+ 
+	respuestaorg.json.JSONObject*
+tipoUsuario*
+
+Paciente2)put(Ljava/lang/String;Ljava/lang/Object;)*
+5*â>
+7U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaD D(É
+Ä
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaD D(
+%6java.io.PrintStream"__id*
+""⁄◊
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaD D(%
+%7java.lang.String"4com.tgs.tgh.model.Usuario#getDNI()Ljava/lang/String;*&
+$
+usuariocom.tgs.tgh.model.Usuario2getDNI()ÏÈ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaD D(&
+
+%8void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%6java.io.PrintStream*
+
+%7java.lang.String2println(Ljava/lang/String;)äá
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaE E('
+%9org.json.JSONObject"org.json.JSONObjectù
+ö
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaE E()
+%10"org.json.JSONObject#<init>()V*
+
+%9org.json.JSONObjectü
+ú
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaE E(* 
+	respuestaorg.json.JSONObject"__id*
+
+%9org.json.JSONObjectãà
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaF F($
+%11org.json.JSONObject"org.json.JSONObjectû
+õ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaF F(&
+%12"org.json.JSONObject#<init>()V*
+
+%11org.json.JSONObjectù
+ö
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaF F('
+jsoUsuorg.json.JSONObject"__id*
+
+%11org.json.JSONObject€ÿ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaG G($
+%13java.lang.String"4com.tgs.tgh.model.Usuario#getDNI()Ljava/lang/String;*&
+$
+usuariocom.tgs.tgh.model.Usuario2getDNI()∫∑
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaG G(%
+%14org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*
+
+jsoUsuorg.json.JSONObject*
+dni*
+
+%13java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)Á‰
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaH H(0
+%15java.lang.String":com.tgs.tgh.model.Usuario#getApellidos()Ljava/lang/String;*&
+$
+usuariocom.tgs.tgh.model.Usuario2getApellidos()¿Ω
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaH H(1
+%16org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*
+
+jsoUsuorg.json.JSONObject*
+	apellidos*
+
+%15java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)·ﬁ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaI I(*
+%17java.lang.String"7com.tgs.tgh.model.Usuario#getNombre()Ljava/lang/String;*&
+$
+usuariocom.tgs.tgh.model.Usuario2getNombre()Ω∫
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaI I(+
+%18org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*
+
+jsoUsuorg.json.JSONObject*
+
+nombre*
+
+%17java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)Á‰
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaJ J(0
+%19java.lang.String":com.tgs.tgh.model.Usuario#getDomicilio()Ljava/lang/String;*&
+$
+usuariocom.tgs.tgh.model.Usuario2getDomicilio()¿Ω
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaJ J(1
+%20org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*
+
+jsoUsuorg.json.JSONObject*
+	domicilio*
+
+%19java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)ﬂ‹
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaK K((
+%21java.lang.String"6com.tgs.tgh.model.Usuario#getEmail()Ljava/lang/String;*&
+$
+usuariocom.tgs.tgh.model.Usuario2
+getEmail()ºπ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaK K()
+%22org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*
+
+jsoUsuorg.json.JSONObject*	
+email*
+
+%21java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)Â‚
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaL L(0
+%23java.lang.String"9com.tgs.tgh.model.Usuario#getFechaNac()Ljava/lang/String;*&
+$
+usuariocom.tgs.tgh.model.Usuario2getFechaNac()¡æ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaL L(1
+%24org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*
+
+jsoUsuorg.json.JSONObject*
+
+nacimiento*
+
+%23java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)Á‰
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaM M(0
+%25java.lang.String":com.tgs.tgh.model.Usuario#getPoblacion()Ljava/lang/String;*&
+$
+usuariocom.tgs.tgh.model.Usuario2getPoblacion()¿Ω
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaM M(1
+%26org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*
+
+jsoUsuorg.json.JSONObject*
+	poblacion*
+
+%25java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)Â‚
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaN N(.
+%27java.lang.String"9com.tgs.tgh.model.Usuario#getTelefono()Ljava/lang/String;*&
+$
+usuariocom.tgs.tgh.model.Usuario2getTelefono()øº
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaN N(/
+%28org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*
+
+jsoUsuorg.json.JSONObject*
+
+telefono*
+
+%27java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)Â‚
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaO O(.
+%29java.lang.String"9com.tgs.tgh.model.Usuario#getPassword()Ljava/lang/String;*&
+$
+usuariocom.tgs.tgh.model.Usuario2getPassword()øº
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaO O(/
+%30org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*
+
+jsoUsuorg.json.JSONObject*
+
+password*
+
+%29java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)ÌÍ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaP P(,
+%31java.lang.String"=com.tgs.tgh.model.Usuario#getCodigoPostal()Ljava/lang/String;*&
+$
+usuariocom.tgs.tgh.model.Usuario2getCodigoPostal()π∂
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaP P(-
+%32org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*
+
+jsoUsuorg.json.JSONObject*
+cp*
+
+%31java.lang.String2)put(Ljava/lang/String;Ljava/lang/Object;)«ƒ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaQ Q("
+%33org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*"
+ 
+	respuestaorg.json.JSONObject*	
+usuario*
+
+jsoUsuorg.json.JSONObject2)put(Ljava/lang/String;Ljava/lang/Object;)ß
+§
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaS S(5!
+%34com.tgs.tgh.model.Paciente"_com.tgs.tgh.dao.PacienteDAO#esPaciente(Lcom/tgs/tgh/model/Usuario;)Lcom/tgs/tgh/model/Paciente;*"
+com.tgs.tgh.dao.PacienteDAO*&
+$
+usuariocom.tgs.tgh.model.Usuario≠
+™
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaS S(6&
+pacientecom.tgs.tgh.model.Paciente"__id*#
+!
+%34com.tgs.tgh.model.Paciente*
+5
+6*´
+8U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaC
+ C(äá
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaC C(
+%3org.json.JSONObject"org.json.JSONObjectú
+ô
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaC
+ C(
+%4"org.json.JSONObject#<init>()V*
+
+%3org.json.JSONObject¨©
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaC
+ C(5
+%5org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*
+
+%3org.json.JSONObject*	
+usuario*
+
+invalido2)put(Ljava/lang/String;Ljava/lang/Object;)"t
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaC C(6
+
+%5org.json.JSONObject*ã
+9U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaB. B(1¶£
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaB. B(:	
+%2int"java.lang.String#length()I*
+
+pwdjava.lang.String2length()*
+7
+8*å
+10U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaB B(¶£
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaB B(%	
+%1int"java.lang.String#length()I*
+
+dnijava.lang.String2length()*
+8
+9*«
+11U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaA A(¥
+±
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaA A(.
+%0com.tgs.tgh.model.Usuario"acom.tgs.tgh.dao.UsuarioDAO#login(Ljava/lang/String;Ljava/lang/String;)Lcom/tgs/tgh/model/Usuario;*"
+com.tgs.tgh.dao.UsuarioDAO*
+
+dnijava.lang.String*
+
+pwdjava.lang.String©
+¶
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javaA A(/$
+usuariocom.tgs.tgh.model.Usuario"__id*!
+
+%0com.tgs.tgh.model.Usuario*
+8
+10*¥
+1U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javak k($∑¥
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javak k()$
+%59com.tgs.tgh.model.GrupoMedico"Ycom.tgs.tgh.web.Manager#getGrupoMedico(Ljava/lang/String;)Lcom/tgs/tgh/model/GrupoMedico;*
+com.tgs.tgh.web.Manager*
+
+dnijava.lang.String2"getGrupoMedico(Ljava/lang/String;)∞
+≠
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javak k(*&
+grupocom.tgs.tgh.model.GrupoMedico"__id*&
+$
+%59com.tgs.tgh.model.GrupoMedicoãà
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javal l(&
+%60org.json.JSONObject"org.json.JSONObjectû
+õ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javal l((
+%61"org.json.JSONObject#<init>()V*
+
+%60org.json.JSONObjectü
+ú
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javal l()
+jsoGrupoorg.json.JSONObject"__id*
+
+%60org.json.JSONObject˘ˆ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javam m(6
+%62java.util.ArrayList"Dcom.tgs.tgh.model.GrupoMedico#getListaMedicos()Ljava/util/ArrayList;*(
+&
+grupocom.tgs.tgh.model.GrupoMedico2getListaMedicos()–Õ
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javam m(7
+%63org.json.JSONObject"Vorg.json.JSONObject#put(Ljava/lang/String;Ljava/util/Collection;)Lorg/json/JSONObject;*!
+
+jsoGrupoorg.json.JSONObject*
+listaMedicos*
+
+%62java.util.ArrayList2-put(Ljava/lang/String;Ljava/util/Collection;)Õ 
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javan n((
+%64org.json.JSONObject"Rorg.json.JSONObject#put(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;*"
+ 
+	respuestaorg.json.JSONObject*
+grupoMedico*!
+
+jsoGrupoorg.json.JSONObject2)put(Ljava/lang/String;Ljava/lang/Object;)"{
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.javap p("
+ 
+	respuestaorg.json.JSONObject:
+dnijava.lang.String:
+pwdjava.lang.StringB
+com.tgs.tgh.web.Manager

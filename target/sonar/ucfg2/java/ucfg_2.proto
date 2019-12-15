@@ -1,0 +1,17 @@
+
+Acom.tgs.tgh.web.Manager#comprobarSiExisteDNI(Ljava/lang/String;)ZU
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java; ;($"1* 
+1U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java< <( â
+ß
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java< <(2
+%0boolean"<com.tgs.tgh.dao.UsuarioDAO#comprobarDNI(Ljava/lang/String;)Z*"
+com.tgs.tgh.dao.UsuarioDAO*
+
+dnijava.lang.String"_
+U
+KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java= =(
+"":
+dnijava.lang.StringB
+com.tgs.tgh.web.Manager

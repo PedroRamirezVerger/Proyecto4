@@ -1,0 +1,25 @@
+language: java
+
+jdk:
+  - openjdk8
+
+sudo: required
+
+addons:
+  chrome: stable
+
+install:
+  - wget -N http://chromedriver.storage.googleapis.com/77.0.3865.40/chromedriver_linux64.zip -P ~/
+  - unzip ~/chromedriver_linux64.zip -d ~/
+  - rm ~/chromedriver_linux64.zip
+  - sudo mv -f ~/chromedriver /usr/local/share/
+  - sudo chmod +x /usr/local/share/chromedriver
+  
+script:
+  - mvn verify
+
+deploy:
+  provider: heroku
+  api_key:
+    secure: e060e5e5-992d-4822-a783-592388b436d6
+  app: sgc-e4

@@ -1,0 +1,29 @@
+
+Ycom.tgs.tgh.dao.GestorDAO#esGestor(Lcom/tgs/tgh/model/Usuario;)Lcom/tgs/tgh/model/Gestor;W
+MC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/GestorDAO.java ("1*¿
+1W
+MC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/GestorDAO.java (Ô
+Ñ
+W
+MC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/GestorDAO.java ( 
+%0com.tgs.tgh.dao.DBBroker"8com.tgs.tgh.dao.DBBroker#get()Lcom/tgs/tgh/dao/DBBroker;*"
+com.tgs.tgh.dao.DBBrokerÝÚ
+W
+MC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/GestorDAO.java (=
+%1com.tgs.tgh.model.Gestor"ccom.tgs.tgh.dao.DBBroker#comprobarSiEsGestor(Lcom/tgs/tgh/model/Usuario;)Lcom/tgs/tgh/model/Gestor;* 
+
+%0com.tgs.tgh.dao.DBBroker*&
+$
+usuariocom.tgs.tgh.model.Usuario20comprobarSiEsGestor(Lcom/tgs/tgh/model/Usuario;)¨
+¥
+W
+MC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/GestorDAO.java (>"
+gestorcom.tgs.tgh.model.Gestor"__id* 
+
+%1com.tgs.tgh.model.Gestor"
+W
+MC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/GestorDAO.java ($
+"
+gestorcom.tgs.tgh.model.Gestor:$
+usuariocom.tgs.tgh.model.UsuarioB"
+com.tgs.tgh.dao.GestorDAO
