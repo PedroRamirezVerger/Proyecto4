@@ -1,16 +1,16 @@
 
-6com.tgs.tgh.web.Manager#get()Lcom/tgs/tgh/web/Manager;U
-KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java7 7("1*ê
-1U
-KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java8	 8(π
-∂
-U
-KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java8	 8( 
+6com.tgs.tgh.web.Manager#get()Lcom/tgs/tgh/web/Manager;_
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java7 7("1*Ø
+1_
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java8	 8(√
+¿
+_
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java8	 8( 
 %0com.tgs.tgh.web.Manager"__id*8*6'
 %com.tgs.tgh.web.Manager$ManagerHolder"
-	singleton"x
-U
-KC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java8 8(!
+	singleton"Ç
+_
+UC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/web/Manager.java8 8(!
 
 %0com.tgs.tgh.web.ManagerB"
 com.tgs.tgh.web.Manager

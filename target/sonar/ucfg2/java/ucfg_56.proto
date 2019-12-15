@@ -1,185 +1,185 @@
 
-gcom.tgs.tgh.dao.DBBroker#comprobarSiEsPaciente(Lcom/tgs/tgh/model/Usuario;)Lcom/tgs/tgh/model/Paciente;V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java\ \(&"3*Ω
-2V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javac
- c("`
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javac c(
-""*ı
-3V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java] ](-èå
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java] ](+
-%0org.bson.BsonDocument"org.bson.BsonDocument°
-û
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java] ](-
+gcom.tgs.tgh.dao.DBBroker#comprobarSiEsPaciente(Lcom/tgs/tgh/model/Usuario;)Lcom/tgs/tgh/model/Paciente;`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java\ \(&"3*—
+2`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javac
+ c("j
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javac c(
+""*ï
+3`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java] ](-ôñ
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java] ](+
+%0org.bson.BsonDocument"org.bson.BsonDocument´
+®
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java] ](-
 %1"org.bson.BsonDocument#<init>()V*
 
-%0org.bson.BsonDocument§
-°
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java] ](."
+%0org.bson.BsonDocumentÆ
+´
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java] ](."
 	criterionorg.bson.BsonDocument"__id*
 
-%0org.bson.BsonDocument€ÿ
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java^? ^(O
+%0org.bson.BsonDocumentÂ‚
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java^? ^(O
 %2java.lang.String"4com.tgs.tgh.model.Usuario#getDNI()Ljava/lang/String;*&
 $
-usuariocom.tgs.tgh.model.Usuario2getDNI()á
-Ñ
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java^) ^(P
+usuariocom.tgs.tgh.model.Usuario2getDNI()ë
+é
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java^) ^(P
 %3java.lang.String"Qcom.tgs.tgh.encriptar.Encriptador#encriptar(Ljava/lang/String;)Ljava/lang/String;*%"#
 !com.tgs.tgh.encriptar.Encriptador*
 
-%2java.lang.Stringãà
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java^ ^((
-%4org.bson.BsonString"org.bson.BsonString…
-∆
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java^ ^(Q
+%2java.lang.Stringïí
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java^ ^((
+%4org.bson.BsonString"org.bson.BsonString”
+–
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java^ ^(Q
 %5"/org.bson.BsonString#<init>(Ljava/lang/String;)V*
 
 %4org.bson.BsonString*
 
-%3java.lang.String—Œ
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java^ ^(R
+%3java.lang.String€ÿ
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java^ ^(R
 %6org.bson.BsonDocument"[org.bson.BsonDocument#append(Ljava/lang/String;Lorg/bson/BsonValue;)Lorg/bson/BsonDocument;*$
 "
 	criterionorg.bson.BsonDocument*
 DNI*
 
-%4org.bson.BsonString2.append(Ljava/lang/String;Lorg/bson/BsonValue;)Ø
-¨
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java_- _(4&
+%4org.bson.BsonString2.append(Ljava/lang/String;Lorg/bson/BsonValue;)π
+∂
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java_- _(4&
 %7 com.mongodb.client.MongoDatabase"__id*$*"
 com.tgs.tgh.dao.DBBroker"
-dbÛ
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java_- _(c(
+db˝˙
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java_- _(c(
 %8"com.mongodb.client.MongoCollection"wcom.mongodb.client.MongoDatabase#getCollection(Ljava/lang/String;Ljava/lang/Class;)Lcom/mongodb/client/MongoCollection;*(
 &
 %7 com.mongodb.client.MongoDatabase*
 	Pacientes*
-""22getCollection(Ljava/lang/String;Ljava/lang/Class;)ø
-º
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java_ _(d0
+""22getCollection(Ljava/lang/String;Ljava/lang/Class;)…
+∆
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java_ _(d0
 
 collection"com.mongodb.client.MongoCollection"__id**
 (
-%8"com.mongodb.client.MongoCollectionÊ„
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java`( `(B%
+%8"com.mongodb.client.MongoCollectionÌ
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java`( `(B%
 %9com.mongodb.client.FindIterable"ecom.mongodb.client.MongoCollection#find(Lorg/bson/conversions/Bson;)Lcom/mongodb/client/FindIterable;*2
 0
 
 collection"com.mongodb.client.MongoCollection*$
 "
-	criterionorg.bson.BsonDocument2!find(Lorg/bson/conversions/Bson;)∑
-¥
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java` `(C+
+	criterionorg.bson.BsonDocument2!find(Lorg/bson/conversions/Bson;)¡
+æ
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java` `(C+
 iteratorcom.mongodb.client.FindIterable"__id*'
 %
-%9com.mongodb.client.FindIterableÌÍ
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaa a(%
+%9com.mongodb.client.FindIterable˜Ù
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaa a(%
 %10org.bson.BsonDocument":com.mongodb.client.MongoIterable#first()Ljava/lang/Object;*-
 +
-iteratorcom.mongodb.client.FindIterable2first()ü
-ú
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaa a(&
+iteratorcom.mongodb.client.FindIterable2first()©
+¶
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaa a(&
 bsoorg.bson.BsonDocument"__id*
 
 %10org.bson.BsonDocument*
 2
-1*¡ 
-1V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javae# e(*‹Ÿ
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javae# e(3
+1*ı!
+1`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javae# e(*Ê„
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javae# e(3
 %11java.lang.String"4com.tgs.tgh.model.Usuario#getDNI()Ljava/lang/String;*&
 $
-usuariocom.tgs.tgh.model.Usuario2getDNI()Ê„
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javae5 e(J
+usuariocom.tgs.tgh.model.Usuario2getDNI()Ì
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javae5 e(J
 %12java.lang.String"9com.tgs.tgh.model.Usuario#getPassword()Ljava/lang/String;*&
 $
-usuariocom.tgs.tgh.model.Usuario2getPassword()‚ﬂ
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaeL e(_
+usuariocom.tgs.tgh.model.Usuario2getPassword()ÏÈ
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaeL e(_
 %13java.lang.String"7com.tgs.tgh.model.Usuario#getNombre()Ljava/lang/String;*&
 $
-usuariocom.tgs.tgh.model.Usuario2getNombre()ËÂ
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaf f(
+usuariocom.tgs.tgh.model.Usuario2getNombre()ÚÔ
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaf f(
 %14java.lang.String":com.tgs.tgh.model.Usuario#getApellidos()Ljava/lang/String;*&
 $
-usuariocom.tgs.tgh.model.Usuario2getApellidos()Ê„
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaf f(1
+usuariocom.tgs.tgh.model.Usuario2getApellidos()Ì
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaf f(1
 %15java.lang.String"9com.tgs.tgh.model.Usuario#getFechaNac()Ljava/lang/String;*&
 $
-usuariocom.tgs.tgh.model.Usuario2getFechaNac()ËÂ
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaf3 f(I
+usuariocom.tgs.tgh.model.Usuario2getFechaNac()ÚÔ
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaf3 f(I
 %16java.lang.String":com.tgs.tgh.model.Usuario#getDomicilio()Ljava/lang/String;*&
 $
-usuariocom.tgs.tgh.model.Usuario2getDomicilio()ËÂ
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javafK f(a
+usuariocom.tgs.tgh.model.Usuario2getDomicilio()ÚÔ
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javafK f(a
 %17java.lang.String":com.tgs.tgh.model.Usuario#getPoblacion()Ljava/lang/String;*&
 $
-usuariocom.tgs.tgh.model.Usuario2getPoblacion()ÓÎ
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javag g(
+usuariocom.tgs.tgh.model.Usuario2getPoblacion()¯ı
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javag g(
 %18java.lang.String"=com.tgs.tgh.model.Usuario#getCodigoPostal()Ljava/lang/String;*&
 $
-usuariocom.tgs.tgh.model.Usuario2getCodigoPostal()Ê„
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javag g(4
+usuariocom.tgs.tgh.model.Usuario2getCodigoPostal()Ì
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javag g(4
 %19java.lang.String"9com.tgs.tgh.model.Usuario#getTelefono()Ljava/lang/String;*&
 $
-usuariocom.tgs.tgh.model.Usuario2getTelefono()‡›
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javag6 g(H
+usuariocom.tgs.tgh.model.Usuario2getTelefono()ÍÁ
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javag6 g(H
 %20java.lang.String"6com.tgs.tgh.model.Usuario#getEmail()Ljava/lang/String;*&
 $
 usuariocom.tgs.tgh.model.Usuario2
-getEmail()≤
-Ø
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javah h(
+getEmail()º
+π
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javah h(
 %21org.bson.BsonValue"__mapGet*
 
 bsoorg.bson.BsonDocument*
-CentroMedico‘—
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javah h(&
+CentroMedicoﬁ€
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javah h(&
 %22org.bson.BsonString"2org.bson.BsonValue#asString()Lorg/bson/BsonString;*
 
 %21org.bson.BsonValue2
-asString()–Õ
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javah h(1
+asString()⁄◊
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javah h(1
 %23java.lang.String"0org.bson.BsonString#getValue()Ljava/lang/String;*
 
 %22org.bson.BsonString2
-getValue()öó
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javae e("!
-%24com.tgs.tgh.model.Paciente"com.tgs.tgh.model.Pacienteù
-ö
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javae h(2
+getValue()§°
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javae e("!
+%24com.tgs.tgh.model.Paciente"com.tgs.tgh.model.Pacienteß
+§
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javae h(2
 %25"Ícom.tgs.tgh.model.Paciente#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*#
 !
 %24com.tgs.tgh.model.Paciente*
@@ -204,15 +204,15 @@ LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javae
 
 %20java.lang.String*
 
-%23java.lang.StringÆ
-´
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javae h(3&
+%23java.lang.String∏
+µ
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javae h(3&
 pacientecom.tgs.tgh.model.Paciente"__id*#
 !
-%24com.tgs.tgh.model.Paciente"Ç
-V
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javai i((
+%24com.tgs.tgh.model.Paciente"å
+`
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javai i((
 &
 pacientecom.tgs.tgh.model.Paciente:$
 usuariocom.tgs.tgh.model.UsuarioB

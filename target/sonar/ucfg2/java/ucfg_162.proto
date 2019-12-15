@@ -1,16 +1,16 @@
 
->com.tgs.tgh.model.Paciente#getCentroMedico()Ljava/lang/String;X
-NC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/Paciente.java ("1*ƒ
-1X
-NC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/Paciente.java	 (­
-ª
-X
-NC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/Paciente.java	 (
+>com.tgs.tgh.model.Paciente#getCentroMedico()Ljava/lang/String;b
+XC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/Paciente.java ("1*¡
+1b
+XC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/Paciente.java	 (·
+´
+b
+XC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/Paciente.java	 (
 %0java.lang.String"__id*0*.
 com.tgs.tgh.model.Paciente"
-centroMedico"t
-X
-NC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/Paciente.java (
+centroMedico"~
+b
+XC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/Paciente.java (
 
 %0java.lang.StringB
 com.tgs.tgh.model.Paciente

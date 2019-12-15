@@ -1,36 +1,37 @@
 
-Mcom.tgs.tgh.dao.DBBroker#getEspecialidades()Lcom/mongodb/client/FindIterable;X
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java÷# ÷(4"1*Á	
-1X
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java◊- ◊(1±
-Æ
-X
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java◊- ◊(4&
+Mcom.tgs.tgh.dao.DBBroker#getEspecialidades()Lcom/mongodb/client/FindIterable;b
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java÷# ÷(4"1*£
+
+1b
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java◊- ◊(1ª
+∏
+b
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java◊- ◊(4&
 %0 com.mongodb.client.MongoDatabase"__id*$*"
 com.tgs.tgh.dao.DBBroker"
-db˙˜
-X
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java◊- ◊(h(
+dbÑÅ
+b
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java◊- ◊(h(
 %1"com.mongodb.client.MongoCollection"wcom.mongodb.client.MongoDatabase#getCollection(Ljava/lang/String;Ljava/lang/Class;)Lcom/mongodb/client/MongoCollection;*(
 &
 %0 com.mongodb.client.MongoDatabase*
 Especialidades*
-""22getCollection(Ljava/lang/String;Ljava/lang/Class;)¡
-æ
-X
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java◊ ◊(i0
+""22getCollection(Ljava/lang/String;Ljava/lang/Class;)À
+»
+b
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.java◊ ◊(i0
 
 collection"com.mongodb.client.MongoCollection"__id**
 (
-%1"com.mongodb.client.MongoCollectionåâ
-X
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÿ	 ÿ(%
+%1"com.mongodb.client.MongoCollectionñì
+b
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÿ	 ÿ(%
 %2com.mongodb.client.FindIterable"Jcom.mongodb.client.MongoCollection#find()Lcom/mongodb/client/FindIterable;*2
 0
 
-collection"com.mongodb.client.MongoCollection2find()"É
-X
-LC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÿ ÿ('
+collection"com.mongodb.client.MongoCollection2find()"ç
+b
+VC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/dao/DBBroker.javaÿ ÿ('
 %
 %2com.mongodb.client.FindIterableB
 com.tgs.tgh.dao.DBBroker

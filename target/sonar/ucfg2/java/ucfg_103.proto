@@ -1,16 +1,16 @@
 
-@com.tgs.tgh.model.GrupoMedico#getDniPaciente()Ljava/lang/String;[
-QC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/GrupoMedico.java ("1*é
-1[
-QC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/GrupoMedico.java	 (≤
-Ø
-[
-QC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/GrupoMedico.java	 (
+@com.tgs.tgh.model.GrupoMedico#getDniPaciente()Ljava/lang/String;e
+[C:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/GrupoMedico.java ("1*≠
+1e
+[C:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/GrupoMedico.java	 (º
+π
+e
+[C:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/GrupoMedico.java	 (
 %0java.lang.String"__id*2*0
 com.tgs.tgh.model.GrupoMedico"
-dniPaciente"w
-[
-QC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/GrupoMedico.java (
+dniPaciente"Å
+e
+[C:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/GrupoMedico.java (
 
 %0java.lang.StringB!
 com.tgs.tgh.model.GrupoMedico

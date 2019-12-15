@@ -1,7 +1,7 @@
-organization=felipelr1597
-projectKey=Proyecto4-ISO-2019_E4-v2_3.2
+organization=pedroramirezverger
+projectKey=PedroRamirezVerger_Proyecto4
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.3457
-dashboardUrl=https://sonarcloud.io/dashboard?id=Proyecto4-ISO-2019_E4-v2_3.2
-ceTaskId=AW8J2a_cdk6HkYSle94F
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW8J2a_cdk6HkYSle94F
+dashboardUrl=https://sonarcloud.io/dashboard?id=PedroRamirezVerger_Proyecto4
+ceTaskId=AW8KeDMVIXmDage_Zd1D
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW8KeDMVIXmDage_Zd1D

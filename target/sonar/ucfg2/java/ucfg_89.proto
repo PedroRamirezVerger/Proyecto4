@@ -1,16 +1,16 @@
 
-9com.tgs.tgh.model.Cita#getDniPaciente()Ljava/lang/String;T
-JC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/Cita.java ("1*Ú
-1T
-JC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/Cita.java	 (§
-°
-T
-JC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/Cita.java	 (
+9com.tgs.tgh.model.Cita#getDniPaciente()Ljava/lang/String;^
+TC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/Cita.java ("1*ê
+1^
+TC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/Cita.java	 (Æ
+´
+^
+TC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/Cita.java	 (
 %0java.lang.String"__id*+*)
 com.tgs.tgh.model.Cita"
-dniPaciente"p
-T
-JC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/Cita.java (
+dniPaciente"z
+^
+TC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/Cita.java (
 
 %0java.lang.StringB
 com.tgs.tgh.model.Cita

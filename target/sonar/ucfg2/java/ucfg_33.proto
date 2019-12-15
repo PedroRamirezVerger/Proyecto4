@@ -1,16 +1,16 @@
 
-:com.tgs.tgh.model.Usuario#getApellidos()Ljava/lang/String;W
-MC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/Usuario.java0 0("1*ü
-1W
-MC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/Usuario.java1	 1(¨
-¥
-W
-MC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/Usuario.java1	 1(
+:com.tgs.tgh.model.Usuario#getApellidos()Ljava/lang/String;a
+WC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/Usuario.java0 0("1*š
+1a
+WC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/Usuario.java1	 1(²
+¯
+a
+WC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/Usuario.java1	 1(
 %0java.lang.String"__id*,**
 com.tgs.tgh.model.Usuario"
-	apellidos"s
-W
-MC:/Users/felip/Desktop/Proyecto4/src/main/java/com/tgs/tgh/model/Usuario.java1 1(
+	apellidos"}
+a
+WC:/Users/pdrit/eclipse-workspace/Proyecto4/src/main/java/com/tgs/tgh/model/Usuario.java1 1(
 
 %0java.lang.StringB
 com.tgs.tgh.model.Usuario
